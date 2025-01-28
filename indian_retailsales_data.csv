@@ -1,0 +1,1101 @@
+Order ID,Order Date,Region,City,Product Category,Customer Segment,Sales,Profit,Quantity,Discount
+63c3bfc2-752f-4c3f-878b-68724ae30039,2024-03-06,East India,Nagpur,Apparel,Individual,30814.49,6438.96,31,0.27
+f12f47d4-95de-46d4-b3e8-71ab84f6aa01,2024-07-09,Central India,Bhubaneswar,Books,Corporate,19510.79,13269.99,22,0.28
+79d3d628-5319-4b9b-82ef-9e06618b4972,2023-07-10,East India,Patna,Electronics,Corporate,32259.42,943.33,24,0.18
+673031df-187d-400b-afe7-b7c8c34231c6,2024-04-29,North India,Bhopal,Apparel,Individual,30621.25,,28,
+9e9a4b70-46d4-48b1-9d89-153d7e0df118,2023-10-01,East India,Chennai,Electronics,Individual,31275.92,19237.84,26,0.11
+fdb5aacc-d933-4e9f-8b5f-7fdb6a215c01,2023-05-12,East India,Bhopal,Apparel,Individual,38131.32,9612.38,24,0.2
+e119541e-417e-48b4-88ce-8f30e1bd16cb,2023-05-27,Central India,Guwahati,Groceries,Individual,20001.33,6105.4,3,0.02
+922c74af-1873-4d5d-8060-6f5847169006,2023-10-27,Central India,Guwahati,Electronics,Corporate,38921.61,3861.26,24,0.06
+146734cd-c841-46c9-8576-a89edae63f73,2024-03-26,South India,Surat,Electronics,Retail,37595.59,16183.79,11,0.06
+ed0432a5-0017-4f7b-b4a1-5b4a6e289604,2024-05-14,East India,Guwahati,Groceries,Corporate,4241.15,12277.51,49,0.24
+ed99894a-4f70-4765-9289-bc607a94fcb5,2024-12-05,West India,Raipur,Books,Retail,28036.04,10797.06,26,0.26
+e584e20b-25bc-487f-9ed3-2c91ce0c4549,2024-04-25,North India,Surat,Books,Retail,45461.06,13624.14,2,0.15
+9f60d8ab-7356-4c13-85e4-ab42c8c0aa4a,2023-10-22,North India,Surat,Apparel,Retail,43557.32,9397.07,11,0.15
+a2280f10-9a90-453d-b705-ee6017ddcd6e,2024-02-02,East India,Guwahati,Home Appliances,Corporate,30975.6,12492.37,14,0.05
+91dfc3a3-6e49-45e5-903e-30f824d8e0c5,2024-11-19,North India,Guwahati,Apparel,Corporate,13150.6,,41,
+4c532ea7-f4fc-4b6f-b0ca-08289b48accf,2023-07-09,South India,Mumbai,Apparel,Corporate,8558.93,8807.89,3,0.12
+79e72c7e-649b-4e68-9048-9fbe8a24ff77,2023-09-01,Central India,Bhubaneswar,Home Appliances,Individual,43142.91,2949.17,47,0.2
+adda257c-4ac1-49d0-bf7c-35342b766bd2,2023-05-28,Central India,Patna,Groceries,Corporate,30538.05,17617.74,10,0.02
+90b724c9-f207-4a1a-8341-ae4ef0a53cf3,2023-05-11,East India,Indore,Books,Individual,39241.4,6124.36,50,0.23
+6ca3bf4e-fb6b-45ad-bb58-9c4471d9a799,2023-09-27,North India,Guwahati,Home Appliances,Retail,8009.58,17291.77,23,0.23
+0885c141-c033-4907-b555-a6c1e568f763,2023-02-06,South India,Kolkata,Apparel,Corporate,37789.48,9196.46,1,0.11
+a324764b-96cf-493d-b516-1bd720352a0d,2024-11-03,North India,Kolkata,Books,Individual,2428.3,1565.26,30,0.29
+baa0c458-dc04-4149-94eb-60b86fa98802,2024-08-21,Central India,Chandigarh,Electronics,Retail,29444.0,2150.14,44,0.27
+abe5136d-c248-4d78-991e-7a4223b57799,2024-05-17,East India,Ahmedabad,Apparel,Individual,38869.51,1127.3,36,0.18
+773e88c5-ae81-4944-81a2-76141aebedd3,2024-05-11,West India,Nagpur,Home Appliances,Individual,31007.51,472.69,41,0.12
+5f104306-6ecc-471f-a054-0a4d21e24962,2023-06-25,South India,Bhubaneswar,Home Appliances,Individual,47161.05,18225.65,15,0.02
+bd147da0-3067-4b16-ba93-1789bc110967,2024-07-21,East India,Bangalore,Groceries,Retail,30489.29,11083.12,50,0.26
+f6881142-7da1-4b79-b123-b06e46670560,2023-12-09,North India,Mumbai,Books,Corporate,30073.97,3887.26,38,0.22
+780ec256-ae92-4ed5-a1be-1e96ced80116,2025-01-27,West India,Chandigarh,Groceries,Individual,12845.14,7379.93,2,0.22
+e12b50c1-0568-495b-8a98-44f9798608ad,2024-06-25,East India,Guwahati,Apparel,Retail,10411.87,13079.71,37,0.22
+358191d3-ca4c-4833-a857-d6b6638e7e87,2024-06-26,South India,Hyderabad,Electronics,Corporate,10232.35,10687.07,26,0.04
+d8baa6e3-b242-410c-8ecf-20eff5c5a260,2024-09-30,South India,Surat,Electronics,Individual,30326.94,18207.05,9,0.03
+1e512612-5d58-40a9-8f3c-206995b87365,2024-01-24,West India,Chandigarh,Books,Corporate,1913.29,1179.6,46,0.3
+05425018-c697-41b7-b4fe-e8028b2784e6,2024-06-05,South India,Hyderabad,Groceries,Corporate,45816.21,18234.67,24,0.27
+f8adf3a8-b031-4015-835f-debad6fc2a60,2023-12-27,West India,Mumbai,Electronics,Individual,16836.76,8042.92,21,0.13
+0d581a54-b8b9-4943-a08f-4949c7e3fe57,2023-03-24,West India,Bhopal,Books,Retail,33374.89,18201.15,46,0.1
+f14441eb-0ea1-4216-af88-a59b5078f08c,2025-01-08,South India,Ahmedabad,Electronics,Individual,3853.91,6934.2,33,0.2
+12c2a1a6-28e8-43b5-ac31-16ee2a76a6d3,2024-09-12,West India,Bhubaneswar,Groceries,Corporate,32330.48,245.95,40,0.07
+56d43460-f33e-4ca4-8bb2-16907f7ca908,2024-01-16,West India,Kochi,Books,Corporate,39424.84,4234.2,38,0.19
+5e993915-d696-4f5c-9c0b-363d78ec1410,2024-09-21,Central India,Raipur,Groceries,Individual,26092.51,18828.02,32,0.27
+e438ceaf-6125-4607-a562-7e28cde7efb2,2023-05-30,West India,Chennai,Electronics,Individual,37721.15,4500.93,48,0.0
+3e02f946-5c1a-46eb-a1dc-97a0470ae2fc,2025-01-05,West India,Patna,Books,Corporate,16347.93,16493.41,10,0.18
+8f29778a-1511-439a-b98a-3c6e0c43d9e2,2024-09-30,South India,Surat,Electronics,Corporate,12441.62,8346.93,15,0.16
+a39142d0-052a-4561-aa20-c58ebf95b9ef,2024-08-26,West India,Mumbai,Groceries,Retail,25814.87,12781.95,11,0.3
+9dd047e8-dd6e-49a5-950c-596f52e070ad,2024-10-28,East India,Delhi,Apparel,Individual,25993.21,61.6,44,0.24
+c2be738e-4d8b-4545-a622-76bc0f349cc2,2025-01-15,West India,Hyderabad,Home Appliances,Individual,45923.82,,24,
+8f884b14-977b-46ac-81c1-e6016265c43c,2024-07-16,North India,Bhopal,Electronics,Retail,24891.97,3142.74,28,0.15
+c3f1be85-71e0-4703-91b4-890996926e9c,2023-03-22,South India,Chennai,Electronics,Individual,22022.1,1121.34,33,0.22
+b9b5c96e-a895-4241-aa47-5ce0f931615b,2023-11-26,West India,Indore,Home Appliances,Corporate,38036.51,1196.17,18,0.09
+337de707-65ce-40b7-b71f-14654def0e4d,2023-04-20,North India,Raipur,Home Appliances,Individual,16738.95,12362.3,36,0.29
+edf77f29-a9b4-4d70-b02c-d16bc2fc2c3d,2023-04-11,West India,Guwahati,Groceries,Individual,3111.84,17498.51,19,0.08
+04ee6223-51a3-48a1-bb54-0a199d4b9f7d,2023-09-19,Central India,Patna,Home Appliances,Individual,30867.04,10570.8,36,0.13
+4375893c-9453-4b4d-978c-e1da64f1bf30,2024-03-31,South India,Mumbai,Books,Individual,13539.46,19205.84,7,0.15
+cb18fe9b-fd72-4a60-9a40-84c7cdc787fa,2024-02-15,Central India,Bhopal,Electronics,Individual,19835.66,400.04,41,0.13
+3ff77519-012c-4ad6-97e6-eb53f186c785,2023-11-17,West India,Raipur,Electronics,Corporate,41653.64,1018.45,34,0.16
+a532d323-65a4-4f86-94a2-e2e5e3c122b6,2023-03-08,Central India,Indore,Books,Retail,44581.97,2870.61,25,0.01
+c868b751-0fbc-429a-8542-bdd9fba7df7b,2024-01-24,South India,Guwahati,Books,Retail,3602.66,16982.85,39,0.03
+1fe0a1bf-ae97-44bf-8f67-07f417f2c2a9,2023-11-15,West India,Bhopal,Electronics,Corporate,895.63,12384.33,47,0.24
+e2adbd10-458b-4df1-a4a1-52bf52dc9c18,2024-10-25,West India,Bhopal,Groceries,Corporate,986.02,1675.42,40,0.09
+69b0dd52-9f96-43f5-8707-bb86be40d84e,2024-02-06,West India,Delhi,Electronics,Corporate,18103.71,12184.91,40,0.1
+b2df254c-e72a-45fe-9416-81adc6e027e2,2023-05-09,West India,Indore,Electronics,Retail,17332.34,16722.64,38,0.23
+7f572351-86a9-4cca-ba02-2f6bcb1d27be,2024-02-10,West India,Kolkata,Groceries,Retail,21190.57,5979.42,39,0.11
+0c202fef-0f1e-457f-b9ed-d75b414a4221,2023-09-03,East India,Surat,Electronics,Individual,42246.19,2827.36,4,0.22
+f5b61686-1d2c-4d89-831e-4671b5813202,2024-05-22,Central India,Chandigarh,Books,Retail,35659.9,18799.33,30,0.19
+89e20101-6b7b-4017-82ec-76cec7842739,2024-07-26,North India,Raipur,Groceries,Corporate,37983.57,1002.86,14,0.25
+49ded700-6582-4fe3-b1be-6bf065d97489,2023-09-26,West India,Chennai,Groceries,Individual,10153.68,354.68,3,0.21
+040e99b5-27ff-4efe-b864-5ac051dbb66c,2023-08-16,East India,Kochi,Groceries,Individual,14907.92,12551.24,37,0.02
+25174bcc-8fbc-41a9-b319-90122c37ec82,2024-03-23,West India,Lucknow,Electronics,Retail,17863.53,5720.17,46,0.11
+23131559-d498-487f-9ef4-97cd7b2b13ef,2024-03-27,North India,Kolkata,Home Appliances,Retail,47121.93,11829.47,50,0.21
+c06492a6-5714-4f31-b862-d44e2035d606,2023-05-07,West India,Patna,Home Appliances,Retail,23314.89,13114.88,35,0.09
+72286a56-14ff-49a6-9abf-6246b1f9f713,2023-12-17,South India,Raipur,Groceries,Corporate,16297.91,14981.28,39,0.28
+8021f7fe-d4cd-459a-83e6-85c24cacd229,2023-12-05,North India,Patna,Groceries,Retail,31201.48,19674.09,38,0.29
+c64a060a-2ece-4f59-84b0-fdd670a60845,2023-04-30,East India,Bhubaneswar,Electronics,Corporate,718.29,13075.01,30,0.04
+3c48ffc8-e0c7-4419-84a8-496e7f9d408c,2023-03-23,West India,Kolkata,Books,Retail,23501.12,1962.99,23,0.01
+b83086eb-6f08-40d1-bf4b-a56713360311,2024-10-26,Central India,Ahmedabad,Apparel,Corporate,21729.2,15596.0,47,0.17
+5fec2b71-cca6-490b-928a-5c5a3738008f,2024-07-14,North India,Chennai,Groceries,Retail,11228.01,22.36,35,0.08
+7b430b72-0a23-478d-9fff-2ad34c5a0345,2025-01-06,West India,Indore,Books,Corporate,18419.98,10582.81,48,0.1
+df616907-5863-442a-a23c-0d5f5c4174a7,2023-07-15,North India,Bangalore,Groceries,Corporate,10589.79,15823.09,19,0.1
+745c1fad-b3d5-4e2f-ac7b-7a80a3fe837b,2024-02-22,West India,Surat,Apparel,Corporate,1342.41,2245.51,12,0.14
+908cf647-e7a0-4280-bc4b-3393184b8523,2023-04-09,East India,Lucknow,Electronics,Corporate,49008.52,2311.19,30,0.27
+28a6228a-a257-49d7-ab84-bd9f3f769dcb,2024-09-19,North India,Guwahati,Electronics,Individual,32270.55,832.03,39,0.08
+82e151b7-b314-4018-a040-e04b1451d835,2023-05-28,North India,Bhopal,Groceries,Corporate,6979.87,17557.22,25,0.05
+e5a578e3-670a-447e-af6c-577285327b0e,2023-04-30,East India,Mumbai,Electronics,Retail,3889.92,18307.17,16,0.09
+20b2226f-f7f9-45a5-9cbc-d0b3bd11fb8e,2024-01-18,West India,Nagpur,Apparel,Corporate,15792.31,16830.83,15,0.27
+a5bb2809-8f28-46e7-99a0-0fb6372593de,2023-03-12,Central India,Guwahati,Books,Retail,14699.81,10500.9,6,0.3
+54498a45-79c7-472f-853e-af1439872a36,2023-04-07,North India,Pune,Books,Corporate,8405.79,14057.26,15,0.17
+03a9becd-a7ba-459a-bb41-023e1b5b102e,2024-09-10,East India,Lucknow,Groceries,Individual,32103.81,10385.35,46,0.27
+b1ab4651-3e9a-4be9-86f5-5f30e6f923eb,2023-01-30,North India,Bhubaneswar,Groceries,Individual,40162.71,1329.37,20,0.17
+2e29e013-b1ca-4cb9-962a-2fe92243e53d,2024-09-29,Central India,Hyderabad,Apparel,Individual,34983.36,7529.57,39,0.21
+95362071-4f20-4764-9c0f-7d50ea16dcc1,2024-05-26,West India,Indore,Groceries,Retail,1452.47,15404.63,14,0.14
+0764c2f8-cbeb-46e9-964d-09c4b06a2aaf,2024-08-15,West India,Pune,Home Appliances,Individual,46513.01,11534.13,14,0.24
+757e43b6-41ea-4eb8-b38b-4883fe8211da,2024-08-04,West India,Kolkata,Electronics,Retail,34332.92,15032.68,3,0.27
+8a723021-62c9-40b9-bfd9-874fec608bf7,2024-09-12,Central India,Chennai,Home Appliances,Corporate,12074.53,7474.15,37,0.17
+55e234b2-6791-4d04-96fa-cc1e5cf1bba3,2023-05-15,South India,Ahmedabad,Groceries,Individual,27584.88,,30,
+e2fe9566-706f-4239-a932-e21c86f11101,2024-06-20,South India,Surat,Electronics,Individual,45249.59,13440.62,10,0.12
+f9af8bae-383e-4956-b14a-c744f14adda8,2024-12-14,South India,Surat,Home Appliances,Corporate,34152.47,9424.79,36,0.15
+154a0234-9ef7-40a3-8da1-5cd1add69541,2024-01-23,East India,Bhubaneswar,Home Appliances,Individual,24899.12,17675.71,10,0.28
+aa8a6c65-c833-4614-8619-2180de8be02b,2024-08-10,South India,Raipur,Apparel,Individual,9426.11,4504.7,21,0.27
+1ea5b0c0-e7e6-48f8-bdd7-aad42f47a922,2024-04-09,Central India,Bhubaneswar,Home Appliances,Individual,28800.38,5116.27,1,0.1
+61042667-f589-4e95-8b84-de8f99ef4a7a,2023-04-14,North India,Mumbai,Electronics,Corporate,19769.57,6316.74,44,0.24
+1877f9c9-d077-4109-a940-2b2835be2155,2024-08-06,West India,Pune,Apparel,Corporate,4095.82,2761.1,3,0.18
+e361ac3e-ba95-4b56-9443-822a50d9928e,2023-06-03,North India,Raipur,Electronics,Corporate,28532.83,18509.42,34,0.22
+aac13e73-2c4e-46e7-a6ed-f168bbd643dd,2024-08-13,North India,Mumbai,Groceries,Individual,9158.75,-637.0,26,0.28
+7228cbcf-553e-4e3c-bafe-fca5e111d895,2023-04-03,North India,Patna,Books,Corporate,1583.19,1429.63,5,0.11
+fa8673c6-bf61-4a3e-bb89-4fcbc6036d58,2024-01-15,East India,Surat,Apparel,Corporate,48330.52,12428.54,25,0.13
+03732ea3-f8bd-41d5-ae50-6cabc7eb5d21,2023-06-14,East India,Bhopal,Groceries,Individual,29909.67,4168.89,6,0.25
+50196ffa-a5df-47ff-82c2-8593622d8825,2023-11-13,Central India,Chennai,Books,Retail,1823.29,,47,
+5c1d3f14-4f54-4dd9-9fc1-f96e40cabaa6,2025-01-17,North India,Lucknow,Electronics,Corporate,36551.31,17598.91,9,0.23
+72dc4dc6-6662-4200-a4e3-2e08c5b9b1fc,2023-06-30,East India,Kochi,Apparel,Corporate,15157.88,14881.23,30,0.1
+751deea3-8c2d-4e58-a65e-5900c4166f7a,2024-11-12,South India,Kolkata,Electronics,Corporate,5966.07,2753.85,6,0.13
+4f65a771-dea2-4ddb-81e4-bc37bf5399d3,2025-01-20,South India,Bangalore,Apparel,Retail,8713.27,,32,
+bdf57be4-3c7f-4849-b4fa-188b3f90ed50,2023-10-31,North India,Hyderabad,Electronics,Retail,25506.54,9367.43,49,0.08
+a3608d41-0cdc-4955-b71c-84a3297c7a8a,2024-06-29,West India,Delhi,Electronics,Corporate,39381.56,13773.34,42,0.18
+c7d558b7-a47c-4153-92f3-bdae109db319,2023-07-05,West India,Bhubaneswar,Books,Retail,32812.14,3864.29,31,0.3
+511165b0-ad61-46f6-a675-aa0a93f4086e,2025-01-20,South India,Kolkata,Electronics,Retail,17114.82,16383.7,44,0.0
+de3c5b18-0a21-4a6d-b55e-d31893092cd3,2023-10-26,East India,Kochi,Groceries,Individual,41311.51,6887.03,15,0.25
+5d40d528-c8fb-409e-94e4-c184d18c3940,2023-02-07,West India,Chennai,Home Appliances,Corporate,44410.9,16655.85,9,0.15
+ebbcd31d-5c57-47bc-8993-bb3117ff5444,2024-10-09,Central India,Surat,Electronics,Retail,1975.53,16196.47,42,0.3
+5b91c2f7-32e6-475d-9dcc-95496dd0cceb,2023-08-06,North India,Bangalore,Apparel,Retail,7456.86,5183.24,16,0.24
+0bad1be9-877f-4957-8ad9-dadca41b30e9,2023-02-05,East India,Ahmedabad,Apparel,Individual,12915.9,18497.46,13,0.23
+546d9207-1292-43f0-a157-4f702a9f0242,2024-09-13,South India,Raipur,Home Appliances,Individual,36567.57,9485.02,35,0.19
+20015653-6e98-4ee5-a456-59a16412ad4e,2023-06-05,South India,Guwahati,Groceries,Corporate,797.97,18655.35,11,0.02
+a76fcbe4-37d9-4c57-8b21-e8f565506c60,2024-03-11,Central India,Pune,Home Appliances,Individual,1216.44,,47,
+0bc9136c-5c65-4770-b083-5fcdb24cca8d,2024-05-18,West India,Raipur,Books,Corporate,8438.41,1536.65,19,0.24
+21e3ee3a-da4e-47f0-ae88-cd55a07f19c2,2023-06-10,North India,Guwahati,Books,Retail,25845.83,5400.49,47,0.18
+1cfbde96-299a-4f3b-9c1f-7e924fd9a8b9,2023-06-30,South India,Surat,Books,Individual,8090.71,275.86,27,0.11
+74b16c56-034b-40a1-9332-84096b4b1d39,2023-11-10,South India,Bhubaneswar,Groceries,Retail,1601.33,19331.96,37,0.05
+e3a6ba81-399c-4bc8-af2c-5be18aae5059,2023-04-12,West India,Patna,Electronics,Retail,27929.87,15426.08,5,0.2
+a3100034-7b0a-470d-9aad-f3f935c344e3,2024-03-10,Central India,Indore,Groceries,Retail,36717.14,,40,
+b3993e3e-208d-476e-9077-35e129e294f4,2024-02-16,West India,Chandigarh,Groceries,Individual,33487.16,12019.11,5,0.0
+393d143c-8bb8-4510-93f9-0ed6dc346633,2024-03-18,Central India,Bhopal,Electronics,Individual,43794.62,17628.67,3,0.23
+2160e984-618e-405d-8c7f-e47b0a77c76b,2023-06-09,Central India,Pune,Apparel,Retail,19962.56,16041.45,7,0.29
+91d2953e-aff6-4ecb-b251-c58153b860c8,2023-04-14,West India,Ahmedabad,Apparel,Retail,49868.5,13093.8,13,0.07
+efd5d184-2214-4525-921b-e93ecbfb69e4,2024-04-10,South India,Raipur,Books,Retail,36168.28,16255.11,31,0.11
+ab41d18e-d18c-415f-a3f1-c996bdfef34d,2023-08-05,South India,Ahmedabad,Groceries,Individual,48832.53,18428.1,45,0.1
+5c7fdbc6-b5f2-4164-99c2-86b7ce35ea1b,2023-02-02,West India,Guwahati,Groceries,Individual,39188.8,9289.78,4,0.07
+6b15e3ce-827c-4386-9193-9766dda37fb6,2024-07-31,South India,Chennai,Apparel,Individual,17055.46,19060.93,14,0.21
+69e46482-c308-46d2-8f1a-556ca1f2b8ea,2023-09-01,South India,Ahmedabad,Home Appliances,Individual,28693.31,15077.54,42,0.29
+58163b61-0879-4ed9-b10b-eefd05f731e8,2024-03-25,East India,Raipur,Books,Retail,9202.11,11855.71,1,0.25
+36f0a732-c39e-4cb8-8464-658ed48d64a6,2023-08-29,North India,Guwahati,Books,Corporate,39985.06,8588.78,42,0.15
+a9d00dcb-e37c-4f3e-a11f-2fffedf626ad,2024-06-17,Central India,Surat,Apparel,Retail,24554.96,16872.23,24,0.22
+e0542b0c-8bdf-4172-801f-f002da32f648,2023-07-26,North India,Bhopal,Groceries,Retail,1542.92,12782.22,37,0.29
+b0a4bbcc-c322-4db6-a9d9-aebaa0c39e13,2023-09-30,North India,Nagpur,Books,Retail,4977.93,3416.9,27,0.04
+9ba3f3bc-56f5-4c4b-8c1d-0a50266bb75c,2023-11-22,North India,Pune,Apparel,Individual,24521.46,,49,
+37111759-7717-4530-8d98-c742154d888a,2024-12-04,South India,Kolkata,Groceries,Retail,18235.58,13030.42,5,0.11
+d2c9da7b-b9f1-4759-bb0b-e3876af19ffb,2023-12-02,West India,Delhi,Electronics,Individual,23767.33,2102.68,15,0.13
+be01df03-d26c-4220-bfdf-0aa090724cfa,2023-02-04,North India,Bangalore,Books,Corporate,42823.35,7027.39,47,0.13
+1b376146-70c7-4f99-920a-fe112fa59647,2023-12-09,South India,Chandigarh,Electronics,Corporate,19038.64,36.13,17,0.11
+3e7b66e5-f292-4829-8634-6a64a8e0e7b2,2024-01-10,West India,Kochi,Home Appliances,Retail,16687.57,13737.85,22,0.15
+e5fc5d05-75f3-40a6-8a79-badd435daea8,2023-08-23,Central India,Kochi,Home Appliances,Individual,37707.31,8213.39,16,0.19
+e3c2cfea-2103-448b-ae66-eb18ab4993bf,2024-09-17,North India,Indore,Groceries,Individual,8305.39,13480.14,10,0.24
+5a690a66-16ba-4dc1-b9d3-2101ee1f7f6f,2023-07-08,West India,Bangalore,Books,Individual,45538.12,9905.22,24,0.26
+e59ccc29-9771-4f35-ac92-3a6f306a432b,2024-01-13,West India,Hyderabad,Home Appliances,Retail,14094.85,9566.11,4,0.16
+6e22c707-545e-4a8a-88d7-7d73b8d8dc1d,2024-08-31,North India,Indore,Groceries,Individual,27755.53,7310.16,19,0.13
+8b1cf728-ce08-4496-9109-8c5ab5943adc,2023-02-06,South India,Guwahati,Electronics,Retail,33673.44,,15,
+04a13160-ade9-4d47-aa61-cd483b950937,2023-03-07,North India,Chandigarh,Apparel,Retail,20063.75,16093.16,13,0.25
+0262243c-529e-40d1-ae9b-edeba1ef04dd,2024-12-06,East India,Bangalore,Apparel,Retail,2306.01,5371.54,22,0.26
+96804f90-b588-4ff0-99d7-8f39e5259790,2023-02-09,North India,Delhi,Apparel,Corporate,43659.79,11612.43,17,0.1
+d625c8e3-953f-4087-bb0e-89de36bb408a,2023-07-31,West India,Mumbai,Electronics,Individual,25461.27,11140.62,34,0.13
+2dd6cd60-5207-408b-9df2-81cb373fda0d,2024-03-20,Central India,Guwahati,Books,Retail,43177.58,,41,
+f62bc256-3c8a-4b8c-8877-64ec63f89b42,2023-12-26,Central India,Nagpur,Books,Individual,44854.26,1655.06,40,0.14
+eb0ee84a-3554-42a2-b4a9-e52c35bdabc0,2023-08-15,West India,Lucknow,Books,Corporate,26478.93,8383.64,7,0.04
+3c6e8f94-197e-4f45-85d0-c23bc852ae23,2023-07-23,West India,Guwahati,Home Appliances,Retail,39494.87,11540.78,43,0.09
+badc250f-0a16-486b-a2c3-3691abe0d87b,2024-12-08,Central India,Chennai,Home Appliances,Individual,23857.94,10872.57,33,0.29
+00fea7ea-339b-491f-98ef-2352b1b0c6d3,2024-11-13,Central India,Patna,Home Appliances,Retail,1244.32,13071.33,36,0.16
+226023ef-fe65-431a-a529-1da4c4ebbdbb,2025-01-17,North India,Bangalore,Electronics,Corporate,15787.29,5979.57,36,0.0
+22a26003-ccf8-40cc-9e06-e987d0408066,2024-04-02,West India,Patna,Books,Retail,37647.43,4800.15,34,0.08
+4596a36c-fe42-4b44-bd48-d1a9218185b5,2024-12-10,North India,Hyderabad,Electronics,Corporate,788.56,7392.38,27,0.22
+b78cbd3a-2bbc-4846-882d-04be33e99ddb,2024-10-07,Central India,Pune,Electronics,Retail,7023.34,2812.81,22,0.19
+35af926c-759f-4afa-a488-fecce58e0197,2024-06-29,West India,Delhi,Apparel,Retail,32478.39,15806.83,4,0.18
+70f085a8-7abf-4107-a088-27dc43018e69,2023-07-29,Central India,Surat,Groceries,Individual,13155.91,17314.37,40,0.14
+395c1539-18d6-45d8-a2bc-ef607b4b5681,2023-10-13,Central India,Pune,Apparel,Individual,49654.37,9840.5,11,0.0
+2cfe575b-bd1e-4b13-918d-b6a125fe36af,2023-03-03,South India,Surat,Books,Retail,24913.98,2535.64,5,0.05
+8b4e12cc-596f-43a6-98b1-d13c4838f306,2024-07-04,South India,Hyderabad,Books,Retail,24684.39,,14,
+b3777f75-42c1-4579-a388-bfc6d2fb826d,2024-01-02,South India,Jaipur,Home Appliances,Retail,47746.0,17100.97,13,0.12
+ae1eac7d-af21-4468-8c13-6dd2e034dffe,2024-07-15,West India,Chandigarh,Books,Corporate,12349.2,16861.46,43,0.06
+738d8506-34d7-4d87-83bc-6c2262f3ad55,2024-12-05,East India,Kolkata,Home Appliances,Retail,2976.59,15202.32,30,0.02
+1241d467-4395-4838-a8b1-aff6f2b78908,2024-09-11,East India,Patna,Apparel,Corporate,37802.01,,35,
+7c025dc7-b85f-493c-8cb2-554b3ec39545,2023-05-13,Central India,Bangalore,Groceries,Corporate,11453.85,,29,
+210cb6e0-603d-46b3-8a18-e01b172dc0b4,2023-11-27,North India,Chennai,Home Appliances,Individual,46940.62,7558.22,31,0.16
+edcdbbea-90b6-4fb6-b793-00b60dc75ea2,2024-09-24,West India,Raipur,Home Appliances,Corporate,37338.0,9222.16,3,0.27
+291ecfb0-ba9c-474d-86bc-4ad35e39311c,2023-10-15,Central India,Kolkata,Electronics,Corporate,48324.3,5681.67,28,0.2
+784b5a8c-8f40-4a4a-8950-b54e69c5a632,2024-07-04,South India,Kolkata,Electronics,Corporate,9745.5,2830.0,16,0.11
+67f25a5e-5ec7-48bb-9720-2eba74df9f28,2024-07-25,East India,Bangalore,Groceries,Individual,2079.65,,17,
+6d26bdf5-4506-4843-bafe-38a1675f4ec1,2024-09-26,West India,Bangalore,Home Appliances,Retail,13059.66,3802.02,36,0.06
+0dbcb7d1-e3e0-41c4-862b-714c56333b78,2023-06-14,East India,Bangalore,Groceries,Corporate,2739.18,14043.19,50,0.05
+e87715a2-8088-452a-bb26-999dbe8ed0ce,2023-09-28,Central India,Delhi,Electronics,Corporate,31281.09,4233.37,26,0.2
+2f7c10a5-4ce1-406d-8eb9-62d756840e6e,2023-04-05,East India,Mumbai,Home Appliances,Individual,24598.18,9239.33,31,0.22
+e6456229-0239-4011-84c8-2a7a2a0f68fd,2024-01-16,Central India,Pune,Home Appliances,Corporate,36917.44,3536.29,40,0.08
+4fea12cf-827c-4c38-8571-c8e3ca83e46b,2023-11-02,North India,Indore,Home Appliances,Corporate,2929.33,6200.76,5,0.05
+e8dc4812-cf46-4ae8-a80a-b5ee4c80c5a7,2024-07-05,East India,Chandigarh,Books,Corporate,33870.63,18320.75,13,0.14
+3a4d81cc-98a7-4176-987e-f49c83661986,2024-01-30,South India,Pune,Apparel,Individual,26727.7,4316.07,10,0.16
+d9733925-2524-4284-a970-fe526a38e935,2024-10-29,West India,Bangalore,Electronics,Corporate,20114.31,14224.86,39,0.22
+e79e3293-e206-43c8-b86b-4804d0f1494f,2024-09-10,South India,Mumbai,Books,Corporate,49581.31,,28,
+9244ec98-df34-49d5-9ae0-a514454650c5,2023-07-07,North India,Bhopal,Groceries,Individual,36315.09,14620.72,14,0.08
+a9ac854b-92ab-471e-981b-16b4ce44f938,2024-05-16,Central India,Pune,Apparel,Retail,40893.7,-547.87,25,0.17
+738e352c-aaf4-43a3-9cc0-488146d6f7d3,2023-09-03,West India,Nagpur,Home Appliances,Individual,39107.85,3093.29,35,0.28
+bd42eb24-4e87-4bb4-b6d8-bbe13dbe3afc,2023-11-12,East India,Delhi,Home Appliances,Individual,22489.93,,43,
+b96153fe-bbd8-47cf-a8b5-9a0e1d5bef55,2024-09-10,East India,Bangalore,Apparel,Retail,3463.07,4545.14,43,0.25
+c51698c9-06ec-4b0d-a6e0-6b5a3f2d584d,2023-05-11,North India,Nagpur,Books,Individual,5187.65,14740.83,42,0.12
+f1a49ff7-4e66-4383-8922-7408e717c2cd,2023-04-18,South India,Ahmedabad,Electronics,Retail,22563.4,7044.21,9,0.2
+cbd850a3-9d59-4152-ab94-fd8adf814417,2023-06-15,South India,Bhopal,Groceries,Individual,2102.69,2665.45,3,0.21
+113ad07d-9262-43aa-b817-075059cf1c4e,2024-01-28,South India,Ahmedabad,Home Appliances,Retail,41498.56,-559.46,20,0.05
+66724e79-3d58-41e0-a87d-509023b9e742,2024-04-02,North India,Guwahati,Books,Retail,2381.62,2926.47,18,0.05
+7ad01025-441a-4085-8829-49d9e6ad5c40,2024-09-09,East India,Hyderabad,Apparel,Corporate,38454.62,,15,
+dcc672c6-685c-47c9-8661-2dbe6f419468,2024-12-25,South India,Chennai,Groceries,Retail,16728.05,7894.02,43,0.03
+45808893-e20d-4e9a-a3bb-3eb31ac24d0a,2023-03-30,East India,Chandigarh,Books,Corporate,27023.32,,32,
+7fd15c53-f3b6-4b32-a1e7-6fdfddf5ec9a,2024-02-02,South India,Chennai,Groceries,Retail,2259.42,18044.67,21,0.09
+a2d66848-97d1-4db8-a08a-c668deae93cb,2023-02-17,North India,Surat,Groceries,Corporate,27102.08,11711.28,5,0.26
+e490cffd-5c3f-412f-acfa-2300b7c75851,2023-07-02,North India,Guwahati,Books,Retail,45467.57,19170.3,39,0.08
+9f37acd7-1be5-4b4d-ab48-90080079fdc4,2024-03-21,East India,Pune,Electronics,Retail,37079.91,1380.53,4,0.02
+d7157317-cd6e-4243-a0bb-6d8d58c1948e,2024-05-05,South India,Guwahati,Electronics,Individual,7704.41,14519.61,33,0.11
+c4bb0b62-9fed-45d6-b9b5-78e3c04a91c6,2024-07-15,Central India,Delhi,Groceries,Retail,10992.23,12934.21,35,0.11
+8908c10c-99e3-403f-9484-771391b94175,2023-09-19,East India,Delhi,Groceries,Retail,5107.89,8223.49,4,0.14
+9cde647c-959a-414b-ae24-a6dbfa67b297,2024-02-13,North India,Surat,Groceries,Individual,34093.83,8421.05,36,0.15
+b79430c3-9788-4697-8b60-5918d87645e3,2024-03-16,Central India,Kolkata,Home Appliances,Corporate,37286.85,15673.99,22,0.17
+94f58534-5f57-49fd-9482-df793bf60757,2024-07-14,North India,Kochi,Electronics,Individual,34098.97,8752.76,32,0.22
+9dd49423-7dac-4abc-a843-e547229e3663,2023-03-01,North India,Bhubaneswar,Home Appliances,Retail,29812.09,19789.3,11,0.16
+854fbf1c-44e2-494b-9cd0-6ad6a8654e8f,2023-07-19,North India,Patna,Books,Retail,25220.11,2764.63,38,0.27
+6a890204-4fc8-4b01-8592-7d9f9f2d2716,2023-06-17,West India,Pune,Home Appliances,Retail,32075.21,6392.62,6,0.01
+f12b3dca-0bb1-44a8-b929-91806eb013f7,2023-07-05,Central India,Mumbai,Groceries,Individual,13928.1,6775.75,38,0.22
+8f75af98-cbf4-4a53-838a-be9ae0c57b57,2023-01-29,Central India,Bhopal,Home Appliances,Retail,14572.61,16986.82,20,0.2
+2e820dd1-34b0-4780-803a-a74d13b8fb65,2023-07-21,South India,Bhopal,Groceries,Corporate,7555.82,6631.07,32,0.23
+79877c66-f099-4589-8c47-404098952349,2024-04-20,East India,Lucknow,Apparel,Individual,2897.89,3334.18,29,0.29
+f09162c0-9e27-4b47-aa20-54b0f1814bea,2023-07-15,West India,Patna,Books,Retail,2921.23,1236.67,34,0.14
+adc6523a-a564-4056-8819-98d5b7e36be6,2023-02-26,South India,Patna,Electronics,Corporate,39046.35,2438.29,46,0.11
+5627ab21-7101-4860-a65e-bc0669677783,2023-12-24,East India,Raipur,Books,Retail,14900.39,14087.26,15,0.27
+cf996883-e032-42aa-a266-9a6c558f24c0,2023-04-30,South India,Mumbai,Groceries,Corporate,7824.08,4507.6,43,0.26
+2572e1f9-f1c5-48d3-8b69-fbc26aaa9f98,2023-11-14,West India,Pune,Apparel,Individual,30406.44,8924.08,14,0.2
+858163cf-659e-49ee-8aef-58fbf65d5f3e,2023-05-13,West India,Bangalore,Groceries,Retail,11761.83,9620.7,10,0.08
+e67df9ac-fe8a-4747-9985-ead5ee933cae,2023-02-24,North India,Pune,Home Appliances,Corporate,25607.84,,12,
+1ccddc29-2b6c-42ff-8ef7-26aca66bbec2,2023-02-06,South India,Bhubaneswar,Books,Retail,18404.43,,11,
+0e399f35-374f-4878-ba36-3fa6186fbf5b,2024-09-02,East India,Bhopal,Books,Retail,14314.01,17432.03,3,0.19
+f74469ff-c44a-4258-bcb5-ef4fd109eb2e,2023-05-26,South India,Patna,Electronics,Individual,6904.98,385.43,27,0.02
+84521639-2a13-47ae-8413-2c34e761794d,2024-10-23,North India,Bangalore,Home Appliances,Individual,25377.88,12604.68,12,0.06
+23ec5446-ab75-4828-8d02-8496bd35cf2a,2024-12-15,East India,Guwahati,Apparel,Corporate,39456.1,,31,
+5c5a195c-1522-4233-a651-c2407dbfcbcd,2024-01-31,West India,Nagpur,Groceries,Individual,17652.01,12426.11,46,0.24
+7dedd101-c7f4-4823-b4b4-80d11342ac26,2023-10-26,Central India,Jaipur,Apparel,Retail,613.43,15162.1,38,0.22
+029ab349-c53b-41b5-ab96-08d1ce307ee4,2024-12-31,East India,Nagpur,Books,Individual,15436.91,11870.45,41,0.18
+af3a431a-adc0-4a0f-8645-cdaf7d944bf8,2023-12-12,South India,Bhopal,Electronics,Corporate,26628.67,19178.77,49,0.08
+02de2503-a769-4642-82d5-f120ed87617c,2024-11-16,South India,Guwahati,Apparel,Retail,5487.25,,12,
+d222ad00-c6ea-4824-8e22-0ba51f975a16,2024-10-21,Central India,Bhopal,Groceries,Individual,19802.36,18051.58,16,0.04
+28729852-c313-42a9-9b35-b982e36702a1,2023-05-12,West India,Indore,Home Appliances,Retail,21580.72,6955.12,6,0.11
+793eba16-2a64-4cfb-b09b-c780e367118b,2023-10-20,Central India,Bhopal,Home Appliances,Retail,25849.25,16600.96,41,0.28
+0ebd03f3-6ae9-4505-b94b-e8eb6a7e4e17,2023-10-10,North India,Indore,Groceries,Corporate,49972.19,12659.94,29,0.29
+aa842739-485b-4630-8607-e701100986a3,2024-07-28,West India,Raipur,Books,Corporate,23428.22,17834.6,30,0.06
+0d900b17-eb78-423b-ab6d-c0b5a497b638,2024-01-29,East India,Delhi,Books,Individual,27805.55,17117.91,37,0.09
+8a808f01-8dd1-4665-80ce-53a2b1d8e4a3,2023-08-07,North India,Ahmedabad,Apparel,Corporate,19610.32,9106.16,38,0.26
+0e0f23b7-024e-4e9b-9f1e-c914ef94197a,2024-10-30,East India,Mumbai,Books,Individual,32678.43,16038.64,5,0.11
+663b24aa-527a-4b82-a65b-2d62c3100553,2023-04-22,North India,Pune,Electronics,Corporate,45595.44,17387.43,42,0.15
+ce277e60-3367-4501-96cb-f16a09d3e10b,2024-10-03,North India,Guwahati,Home Appliances,Corporate,32816.85,14280.88,48,0.24
+06009933-5b12-456f-9f20-537505ba9ac9,2023-05-19,West India,Nagpur,Electronics,Retail,5356.02,12019.99,29,0.09
+88036fe2-a557-490f-9382-6c12c66a37fd,2024-10-18,West India,Patna,Home Appliances,Retail,37369.1,19781.24,48,0.18
+91460932-2832-4160-9f79-10cc3b85d8d3,2024-02-23,South India,Ahmedabad,Groceries,Corporate,4522.32,4236.77,29,0.22
+a5b18266-6cb7-49e4-88cc-8ae63124c5c7,2024-09-08,Central India,Delhi,Books,Retail,4938.61,7589.36,6,0.05
+90a3bc7a-3b3f-40b3-bd79-725c02933279,2023-07-21,West India,Guwahati,Apparel,Retail,47405.66,14911.82,5,0.2
+086f164f-c735-47e2-b7dd-d582bdd3c463,2024-11-30,South India,Raipur,Apparel,Retail,13150.49,17680.88,12,0.28
+69f8171d-0c45-437c-b258-32b5cc780f0a,2024-11-26,South India,Kochi,Electronics,Individual,29971.4,8566.52,20,0.27
+2f53e5c1-6a4f-472e-8f66-6b6eaabc3569,2023-04-16,East India,Bangalore,Groceries,Individual,45119.56,,6,
+cc1646c5-2a90-413c-8a3b-acc5f70b8453,2023-08-27,West India,Lucknow,Books,Individual,1991.96,13344.79,23,0.17
+51aed32d-61fa-40e8-9ca9-72ef5826591b,2024-06-17,South India,Bhopal,Books,Individual,28288.37,8971.76,41,0.24
+b2999780-9121-456f-8b12-a83ad04c399f,2023-04-03,East India,Patna,Groceries,Individual,3831.7,757.45,48,0.14
+8dafcdd2-50e5-4130-9f8e-5830f5f82b09,2023-09-30,East India,Kolkata,Apparel,Corporate,28690.2,19250.3,47,0.12
+11eaee1d-63d0-41ce-98a4-06368e8b2a79,2024-06-19,East India,Delhi,Books,Corporate,31518.32,10591.31,3,0.23
+6362ae47-ebbb-4db1-90a6-e773538d5194,2023-09-09,North India,Indore,Home Appliances,Individual,46897.71,3400.09,46,0.22
+f297b3c6-81c6-4537-a389-5ac7fcc721b9,2024-10-15,East India,Kolkata,Home Appliances,Retail,30756.22,,7,
+e9234e81-cb32-4641-a880-edf9bf636841,2024-02-11,East India,Hyderabad,Groceries,Corporate,1312.62,,25,
+65dd63aa-ab66-4a86-8480-97f6630f10ca,2024-10-01,North India,Jaipur,Books,Retail,2906.29,4630.58,19,0.15
+a0611fd3-5736-40da-8b72-ce7569819738,2025-01-12,West India,Jaipur,Books,Retail,42031.41,11263.64,36,0.24
+d625421b-0303-4ead-80c8-2f39632afe4d,2023-02-01,East India,Lucknow,Home Appliances,Individual,7334.53,16390.44,40,0.28
+72f530fb-bd32-4cb1-8daf-47329a6c05eb,2023-06-19,South India,Raipur,Apparel,Corporate,23616.46,6907.88,10,0.09
+54e20897-c528-44c3-b33e-a89925f72781,2023-07-06,North India,Pune,Home Appliances,Retail,30484.46,7204.99,48,0.13
+be621766-6a97-4ff6-a555-4b70a398c971,2024-03-28,Central India,Bangalore,Groceries,Corporate,24258.94,6687.36,28,0.15
+dfbcf26d-0765-49a9-955b-7623dbfc6d4c,2023-08-21,Central India,Hyderabad,Groceries,Retail,11007.92,11324.12,31,0.24
+3a1c6a6f-5ae7-4e6f-a0e3-14546a5e5d14,2024-12-27,West India,Patna,Home Appliances,Retail,35026.45,2550.78,4,0.1
+ac5e63b1-9e4c-4094-bc50-1e6a93c6ada6,2024-04-17,West India,Bhubaneswar,Apparel,Retail,38985.77,1156.42,28,0.05
+1f51452a-8e0d-48e2-a62c-1fd2b2b89a87,2024-01-03,East India,Bhubaneswar,Home Appliances,Individual,17218.44,7649.02,1,0.03
+02e7e10c-386d-4472-a032-e96078af84bb,2024-06-06,East India,Hyderabad,Apparel,Retail,617.69,3958.86,41,0.11
+787c4252-522f-4411-96bf-b0d8163563ab,2024-12-31,North India,Chennai,Books,Corporate,35347.72,7694.96,1,0.0
+509809ad-0813-493a-9e8a-cd7a5fc24805,2025-01-02,West India,Nagpur,Electronics,Corporate,38687.13,,48,
+58811884-d719-4129-bc5e-eec919560bbf,2024-06-08,Central India,Surat,Apparel,Corporate,35089.65,9882.91,12,0.27
+91316c2e-b2f1-43c5-93e8-2293da0f4c78,2024-05-01,South India,Bhopal,Groceries,Corporate,29584.16,4038.19,45,0.27
+d74b88b8-a0c2-4546-b21d-9971bf09ec33,2025-01-15,North India,Nagpur,Home Appliances,Corporate,12762.36,6364.15,1,0.21
+b890ff8e-6954-4dc9-8f96-64d2c598ac62,2024-01-31,North India,Hyderabad,Home Appliances,Retail,32181.24,754.03,41,0.0
+025f3eaa-0f27-40d4-9be3-2430dc4c3bcf,2025-01-15,East India,Surat,Groceries,Retail,37449.27,19.07,36,0.04
+6e121c32-5d15-47c5-8690-a3e08fe7171f,2023-05-02,West India,Hyderabad,Groceries,Individual,24334.23,14028.26,1,0.0
+d66dadea-d141-4706-b798-ce597119e312,2024-09-12,East India,Chennai,Books,Retail,48646.15,6790.26,33,0.1
+11eea0b0-01c8-45af-bf35-3bfecc9c9068,2024-08-06,East India,Hyderabad,Electronics,Corporate,22705.95,10456.74,7,0.18
+1f44579c-5d53-4122-addd-2101e86f5389,2023-08-06,South India,Nagpur,Books,Retail,31036.15,324.5,37,0.25
+cf088e37-036a-4050-947f-1e6495bd9e98,2023-03-09,North India,Bangalore,Apparel,Retail,33009.55,19592.62,21,0.06
+e03cf1d1-c29b-4ca7-8ca1-17fc5aa293b6,2024-02-17,East India,Lucknow,Electronics,Retail,23435.28,14048.01,8,0.25
+dd0b46ca-b7f3-48fd-aa44-b5b75ca486f3,2023-05-26,South India,Bhubaneswar,Electronics,Individual,15676.91,14484.14,8,0.02
+6d93a20d-ed0c-4bbb-985f-592e6323261f,2024-04-29,Central India,Chennai,Groceries,Individual,44095.68,7541.78,32,0.07
+a683c915-bbde-4300-beaa-77d9dca30a60,2024-03-29,North India,Jaipur,Apparel,Individual,9748.34,14540.18,2,0.08
+014fa4b9-09fa-46ff-9c93-9959e7e4689a,2023-06-01,West India,Surat,Books,Individual,12093.67,3237.78,17,0.1
+9946dd6d-ef2e-49aa-a52b-ca5e004ed0e5,2024-11-08,North India,Kolkata,Apparel,Corporate,34665.26,17783.22,41,0.26
+b280f296-2c20-488a-9bf1-997a52e9d211,2024-07-13,North India,Kolkata,Apparel,Individual,34699.76,6689.87,49,0.2
+530ebae1-02e0-48c0-a180-3a3387e4c467,2024-09-16,West India,Kochi,Electronics,Individual,3547.75,3839.1,36,0.1
+0b160317-f379-47e4-bb0b-012a3fdffcbc,2023-11-07,West India,Lucknow,Groceries,Retail,39772.3,1166.05,26,0.17
+44cfaacd-591e-4ba3-baa9-30f5d76c73ff,2024-01-23,Central India,Surat,Groceries,Individual,5415.02,18292.04,8,0.19
+a777ce36-cc06-4a1f-b3ff-b6ee4066a8ad,2024-11-15,South India,Chandigarh,Groceries,Retail,47584.81,4087.32,14,0.03
+b14c7648-71cb-4b0a-bb9d-49c31b656782,2024-08-17,Central India,Nagpur,Books,Corporate,28691.72,1381.82,16,0.22
+421e28cd-7fdc-4aee-97be-a31d68350be6,2024-04-15,Central India,Mumbai,Home Appliances,Corporate,18505.45,11597.03,1,0.04
+ef752004-acfb-4048-a9bb-db5fb12942e4,2024-07-03,North India,Pune,Books,Corporate,12420.72,2261.6,3,0.01
+e5d22c5d-49ec-42ee-bf01-01d75a79edf2,2024-07-23,North India,Bangalore,Apparel,Retail,37788.7,10658.9,33,0.23
+5e1852ae-0032-4bcc-acf6-0211f1c7fb0a,2023-04-25,East India,Guwahati,Groceries,Corporate,38669.6,11151.12,21,0.28
+08e3ae7a-44b9-464e-a68e-0d53526fb526,2023-09-28,East India,Kolkata,Groceries,Individual,2142.6,2015.45,9,0.12
+c49e3411-d1b3-4fb2-bac9-529da32adba1,2023-04-03,West India,Ahmedabad,Books,Individual,14556.66,12139.14,40,0.21
+916673eb-00bf-43bb-8eb8-9d315c2eee9a,2023-04-06,Central India,Jaipur,Electronics,Corporate,46362.71,7832.71,46,0.12
+9363b576-075e-46fb-a0df-72e3b532bb9d,2023-11-26,West India,Kochi,Home Appliances,Corporate,3012.77,,15,
+e90dd1ed-7a99-40f2-bd23-4aae61442a06,2024-10-14,South India,Nagpur,Home Appliances,Corporate,43204.03,3696.28,44,0.05
+60084045-a4e9-4a14-bd66-63ce4df00441,2025-01-20,North India,Lucknow,Apparel,Retail,5381.24,1143.15,15,0.15
+a2d8d5c4-9f2b-44ca-83a5-892eed02496d,2024-12-09,North India,Patna,Electronics,Retail,48723.23,18411.19,44,0.12
+582910c5-24ae-412e-a122-76e70e954e76,2023-12-18,West India,Delhi,Electronics,Corporate,32481.36,8971.61,29,0.06
+a6747873-c907-4c5e-9ae5-6179d7f5e059,2023-11-28,Central India,Indore,Groceries,Retail,4867.53,13947.71,49,0.3
+e5eaac35-ba1d-46d8-8f8c-8cdbd5cdfe16,2023-02-04,East India,Raipur,Books,Individual,11932.21,19179.72,23,0.2
+5ab9832b-9184-4b4f-898b-8f64c72bedf0,2025-01-05,Central India,Patna,Electronics,Corporate,20298.92,2440.33,35,0.19
+990d9d5d-20b1-466e-8707-336cef114ecb,2024-11-28,Central India,Kolkata,Electronics,Retail,44774.0,436.77,33,0.12
+80cf9a8c-50f8-4bd6-ba40-07ba429b823f,2024-01-19,West India,Kolkata,Home Appliances,Corporate,24511.38,2700.42,31,0.02
+e49b9d2b-8d68-4176-9c05-a6ffe1e235b2,2023-09-04,West India,Raipur,Books,Retail,34375.0,9971.95,20,0.1
+727a9fe9-0e8f-4a27-9181-b3e6204bf2f9,2023-07-12,West India,Bangalore,Books,Corporate,37865.83,12827.8,22,0.06
+3c1d837d-b99a-45cb-98eb-b7e481d4bd91,2024-10-10,West India,Kochi,Books,Individual,46606.04,,9,
+6a331bf6-17a3-4357-85ce-494caceec2d4,2023-12-24,West India,Indore,Apparel,Retail,6462.38,7022.41,11,0.19
+c8c39ae9-ffc7-4735-acb6-30caa27abcfa,2024-01-23,East India,Raipur,Electronics,Corporate,3126.76,17568.39,49,0.15
+4ff9bfdc-e41f-4ff6-aab8-b3e51fbb1f22,2023-02-15,South India,Delhi,Apparel,Corporate,49176.47,9251.35,5,0.26
+a83fded5-1a45-4f19-9d5c-74ce2ee8382d,2024-10-13,Central India,Nagpur,Apparel,Individual,21924.76,14947.38,9,0.22
+509872f6-f1dd-4766-93d6-654c0cfb4e4a,2023-09-14,South India,Indore,Apparel,Corporate,12700.32,3466.02,12,0.07
+ab21ba95-9118-4c37-a947-2453d4a04b56,2023-08-22,West India,Guwahati,Home Appliances,Individual,36074.0,15204.84,50,0.07
+bcbcfe3c-cc0e-499e-8012-caa7fa37be73,2023-10-25,West India,Bhopal,Home Appliances,Individual,20714.82,9283.36,43,0.19
+ceda72e5-2118-4d77-8622-ce2c9939dbe3,2023-06-11,South India,Indore,Groceries,Individual,40965.03,16148.8,11,0.15
+bb10467e-f2a7-48ff-b59a-c2fb80be59c8,2023-04-14,South India,Ahmedabad,Books,Individual,14101.07,4020.15,9,0.15
+fda8e1c0-6958-448a-b845-4117e505a7c6,2023-08-07,South India,Delhi,Books,Individual,10408.46,8784.05,20,0.1
+b2620923-1104-4c1c-89fb-69a0e222f399,2023-10-26,South India,Nagpur,Apparel,Retail,46212.02,18589.27,48,0.17
+a84960b8-f2bb-4ea2-8e5f-4c9115b77810,2024-08-18,Central India,Raipur,Apparel,Retail,43704.69,9463.54,47,0.23
+5d513b44-301f-4d11-9292-6d988c3525db,2024-06-04,Central India,Bhubaneswar,Books,Corporate,41193.7,5686.48,10,0.26
+25dfacab-4c2f-4d9e-a536-8389f0a6c550,2023-12-01,Central India,Bhopal,Electronics,Corporate,23012.55,-66.12,2,0.12
+d4a95a40-98ed-4af5-8b31-65b65c12cabc,2023-07-25,North India,Ahmedabad,Groceries,Individual,39283.1,7761.82,5,0.2
+860860d1-a3db-4969-bf2d-375150806009,2023-12-04,West India,Hyderabad,Home Appliances,Corporate,41879.98,-423.95,26,0.29
+919b0358-78f9-4193-b580-e71dbebbeb83,2024-01-23,South India,Surat,Books,Retail,16590.7,19529.01,27,0.09
+2b75ac9b-9252-40af-a87b-686dc0541193,2024-01-25,East India,Lucknow,Apparel,Corporate,10938.45,19260.81,33,0.28
+a2ea8e1c-ec09-41bf-83ba-0e3ab6b3815d,2024-03-26,North India,Indore,Electronics,Retail,25183.5,10593.79,26,0.1
+a70b1bd2-a243-443b-9ec8-1d31cc806542,2024-11-11,South India,Bhopal,Apparel,Corporate,8200.17,4862.96,37,0.22
+dba740d3-f7c6-4058-ba59-fc92b2a6b047,2023-09-07,North India,Kolkata,Home Appliances,Corporate,10859.27,15825.89,48,0.22
+0f460c21-389d-476b-9d34-30f17d57d55f,2024-09-11,South India,Kolkata,Home Appliances,Retail,23270.27,15838.75,3,0.25
+42f6828a-2f75-4b83-93b1-5cbe655360c3,2024-06-15,North India,Ahmedabad,Books,Retail,12078.81,9300.44,14,0.19
+f5a4ec1d-8a2c-4f1c-9a0e-3766133aa7a7,2024-08-30,West India,Surat,Home Appliances,Individual,44689.05,6655.6,9,0.27
+50512d2c-346f-40bc-a9e0-4f67dce902b7,2023-02-03,East India,Pune,Home Appliances,Corporate,14974.55,2442.75,13,0.11
+84e485fe-bafa-4046-94aa-b20da7d1a1e8,2023-10-24,Central India,Hyderabad,Groceries,Retail,23108.69,2003.92,39,0.12
+168a2c45-33b3-43d1-b6cd-595dcf1a322e,2024-05-28,East India,Lucknow,Books,Corporate,9840.11,7931.91,29,0.17
+8da55beb-4e4c-4709-bb9d-93fb3b282235,2024-10-07,Central India,Chennai,Home Appliances,Individual,5328.18,1934.79,37,0.26
+13dc3880-9014-45bd-b5e5-96cb3acb5617,2024-07-19,South India,Nagpur,Electronics,Corporate,38567.83,,39,
+9a4b499e-0724-4ffa-9095-4937f6fdf252,2024-11-03,East India,Kochi,Groceries,Individual,36989.94,7746.99,17,0.02
+33d29456-e9f5-412f-8f3b-38a03c7d9f93,2024-02-15,West India,Pune,Groceries,Retail,42309.78,14388.33,30,0.14
+b83cca19-9a0b-42c7-83dc-3a3fdee0c6d5,2024-06-04,East India,Indore,Apparel,Corporate,11426.31,15705.44,16,0.22
+3fbfe3ae-cc42-4f28-9bad-a3062c3d34c4,2024-06-04,West India,Kochi,Electronics,Retail,19014.39,381.78,15,0.13
+65c23799-1006-4015-96df-1b1fd81b281f,2024-11-15,East India,Surat,Apparel,Retail,49667.47,14562.16,10,0.09
+0dd35ffb-7cdf-45cf-824e-acb30ea00ed7,2023-08-31,East India,Chandigarh,Apparel,Individual,6229.3,,45,
+9a8a3aee-c69e-4226-ae1c-e5d22ccb661d,2024-09-04,East India,Pune,Home Appliances,Retail,5370.41,651.84,14,0.17
+95e2aa45-17aa-4c61-aa91-178c2f01b50e,2024-05-26,Central India,Bangalore,Books,Corporate,7070.95,13274.8,47,0.15
+a20fac18-f301-4371-8aa0-502316fb3fcb,2023-05-20,East India,Mumbai,Home Appliances,Individual,17514.1,19099.32,7,0.06
+b758a82f-913b-4c9f-b016-a772984edb42,2023-02-14,Central India,Indore,Groceries,Retail,6575.33,15327.03,12,0.25
+72df47d8-c8d3-4d6f-a422-27bb4572b8d8,2025-01-26,East India,Surat,Electronics,Corporate,28085.13,5410.2,9,0.25
+c0c625bf-fd09-4f1a-8bbf-8b2a6a294081,2023-04-25,East India,Nagpur,Groceries,Corporate,26335.45,14076.1,27,0.1
+09d5bb2e-fbe5-4fe1-919f-bd280594efc6,2025-01-15,North India,Chennai,Groceries,Retail,10204.11,10783.22,14,0.06
+fe6d14da-b3df-41b6-8670-cf6402e9de79,2024-04-22,North India,Delhi,Electronics,Retail,22859.11,7074.1,40,0.05
+bddfe682-663a-4110-a308-60468a0a9582,2023-08-07,East India,Kolkata,Electronics,Corporate,4324.11,10109.01,32,0.05
+c871ec94-4189-4588-9424-8cb627b2d79c,2023-11-11,Central India,Surat,Books,Corporate,21110.04,587.36,15,0.03
+49402087-337c-45d1-901d-d396c98ead94,2024-08-27,East India,Kochi,Apparel,Corporate,26398.88,15847.8,31,0.02
+a20559a8-bc49-4e3a-bb06-b5b9b34a17cb,2024-06-12,South India,Pune,Apparel,Retail,28892.45,12792.53,30,0.09
+624592c5-1525-481c-9f13-362716bba9f0,2023-08-28,South India,Kolkata,Apparel,Retail,4077.28,11459.78,25,0.06
+892bb391-f88e-4989-8d5d-654daac9937d,2024-05-21,North India,Nagpur,Books,Individual,10773.39,13396.97,26,0.24
+555b672f-e362-4b6c-8071-bfb0f8e0f951,2023-03-31,East India,Raipur,Books,Corporate,38920.65,9029.95,11,0.16
+c2d7c2ed-b7a8-48e1-843c-2e44736be28e,2023-09-08,East India,Chennai,Books,Corporate,11996.77,19675.8,20,0.15
+a446cbd5-1ba9-4a0d-901f-d4026adad892,2025-01-08,West India,Mumbai,Electronics,Retail,49760.48,19508.84,3,0.17
+152802fd-f8c6-4e81-a589-5a90269aa833,2023-03-19,West India,Raipur,Home Appliances,Corporate,32768.93,11529.23,5,0.16
+5cec2a1c-a6f0-46d0-be72-00cd80e0cee6,2023-02-20,South India,Lucknow,Groceries,Individual,15858.07,859.69,30,0.13
+01efd7ea-d029-458e-9ca1-f7263ccb21a9,2025-01-14,North India,Hyderabad,Apparel,Corporate,16299.25,12871.11,35,0.06
+5ec56019-176c-4487-98b9-bf34cc753aee,2024-10-26,Central India,Surat,Groceries,Retail,10593.54,15794.27,23,0.12
+caad00f2-595f-401c-a5e1-0e8326997650,2024-05-13,West India,Bhopal,Apparel,Corporate,43512.65,-79.71,36,0.14
+cb4da8bb-b1ae-489b-b123-12a96469a4cd,2024-06-27,East India,Chandigarh,Groceries,Individual,24279.98,4602.6,47,0.12
+b9084548-bda8-41c1-a507-0662772ff879,2023-11-06,South India,Delhi,Apparel,Individual,39197.26,,43,
+d722117b-4447-441f-bf61-b1278b659772,2024-02-03,East India,Indore,Home Appliances,Corporate,37851.07,6030.45,18,0.0
+99d4bb10-5abe-4521-b0dd-1fafdb68be82,2024-11-12,Central India,Raipur,Home Appliances,Individual,28937.36,,28,
+071171a3-0c5f-4135-8407-fec39df7ffb7,2024-04-20,North India,Delhi,Books,Individual,10888.09,14821.67,36,0.21
+a3b6c44e-e603-44cf-b692-ef04acc5a5bf,2025-01-25,North India,Patna,Apparel,Retail,9062.52,10326.05,50,0.07
+0bb83c46-7d05-46c5-ae61-390141f767fe,2024-04-06,West India,Kolkata,Books,Corporate,876.73,16012.9,1,0.06
+96b816ac-7e88-4228-b149-81180ee71747,2023-03-06,West India,Indore,Electronics,Individual,43794.61,4060.65,36,0.18
+19981441-d600-4437-b93a-6f0a6b7d0b8a,2023-03-07,West India,Mumbai,Apparel,Retail,48233.88,12709.53,19,0.08
+0a02aa6e-1065-4d67-b090-ada4f319d6dc,2023-08-11,West India,Hyderabad,Groceries,Corporate,23334.81,4416.56,50,0.27
+cead3e95-b306-4fa4-be7e-93ae40d98359,2024-04-10,West India,Nagpur,Apparel,Corporate,24706.46,8194.63,2,0.08
+bb5134b8-17f9-4d82-a1d7-2925b14f7484,2023-09-17,Central India,Delhi,Books,Corporate,12252.68,8601.55,47,0.21
+7326f228-9d98-4868-9c1f-b7623e518d8a,2024-09-20,Central India,Raipur,Electronics,Corporate,48635.37,3052.21,8,0.29
+2af36bb6-5538-4737-8bed-6e5abf8ee084,2023-05-08,Central India,Kochi,Electronics,Individual,25555.31,1084.17,12,0.11
+f71de213-6529-4d9d-b8ef-9ed3207c549b,2023-12-15,North India,Patna,Electronics,Retail,18329.55,8451.73,6,0.06
+c44cda30-3484-4c45-889a-c704e76b1d5a,2024-06-06,South India,Mumbai,Electronics,Individual,32507.74,1554.03,3,0.29
+a710800c-43a1-46bc-8b54-a0077fd52e17,2024-01-04,East India,Bangalore,Books,Corporate,33032.51,,23,
+ad11a0c5-05a7-48f5-875f-f369cc9b2196,2023-10-12,West India,Bhubaneswar,Home Appliances,Individual,29682.39,2286.1,29,0.08
+aeb5fcf3-fd61-453a-8524-8ff2a430128e,2024-04-01,East India,Bhubaneswar,Home Appliances,Individual,14799.6,8029.45,27,0.11
+b5d371b3-524c-4b6d-a2dc-f923b42199ec,2024-06-06,West India,Chennai,Electronics,Individual,15472.55,13136.6,10,0.04
+dcc0f77e-5d1b-4259-8d03-4811a5d76f22,2023-09-11,West India,Chennai,Home Appliances,Retail,10245.02,,14,
+3957bed2-0415-4bdb-b59e-06348692244d,2023-08-06,West India,Ahmedabad,Home Appliances,Individual,49415.63,17014.15,48,0.13
+a0c62196-2482-49db-a30e-fe4741a55632,2024-09-22,West India,Delhi,Electronics,Corporate,19473.79,14010.81,33,0.01
+1d1243e3-be3a-4603-b6bb-0d0bc6c3cce2,2025-01-08,Central India,Bangalore,Home Appliances,Corporate,36687.77,14000.29,2,0.16
+ce7eaf0c-d48c-47c2-948b-5e4dc2acf575,2024-04-02,East India,Delhi,Apparel,Corporate,30256.73,19543.83,24,0.14
+16ff5b5c-4866-4bc4-ba4f-8f6f876c181c,2023-05-17,West India,Chandigarh,Books,Retail,46943.6,,30,
+1a2ca60b-f48b-461e-b619-2035ef5de043,2023-05-30,East India,Bangalore,Groceries,Individual,29663.55,18001.13,28,0.18
+b54aa4ad-fb93-4d9b-82de-3188497c692f,2023-06-20,East India,Patna,Electronics,Retail,17062.31,-935.46,35,0.19
+c919c758-3d05-46e6-9e65-3f34fd4093fc,2023-04-28,West India,Chennai,Apparel,Corporate,16447.27,5366.92,6,0.05
+36cb7aa7-f5a0-4c15-b9d4-31a27eba4245,2023-06-14,Central India,Chennai,Books,Retail,5210.79,4005.87,11,0.14
+2339fce4-b33c-4f55-abf0-e0514054013b,2024-09-08,East India,Jaipur,Home Appliances,Corporate,26535.09,7629.34,12,0.16
+fcd98cd3-7811-4a5e-bed8-b2d729b5498f,2024-07-30,South India,Kochi,Groceries,Individual,36114.44,-381.13,34,0.13
+17825efb-409f-4186-aeed-a0f4ec4b60fe,2024-01-14,South India,Kolkata,Apparel,Retail,10998.48,12859.7,20,0.05
+779b0b93-04e7-45b3-9162-27d2d98934f9,2024-10-31,West India,Raipur,Groceries,Individual,1427.61,5218.75,38,0.27
+c1e62335-7ee2-480f-b2f4-f7331ca77191,2024-05-24,West India,Bhopal,Groceries,Individual,9428.37,9288.63,11,0.0
+d595c66a-781b-4549-981e-1e18f950f99a,2023-06-25,East India,Bangalore,Apparel,Retail,48016.2,-565.49,35,0.25
+f6a9b19f-2ade-4a23-b2d4-9cf2a97ec092,2024-02-03,North India,Bhubaneswar,Electronics,Corporate,20110.08,12268.27,36,0.03
+6dcc54ad-7521-4bf0-bc9c-74148acdb39a,2024-07-29,East India,Delhi,Home Appliances,Corporate,7244.36,6656.41,14,0.2
+63db8789-3fe8-4b59-9f7d-2b14ad40f8d8,2023-07-07,East India,Bhubaneswar,Electronics,Retail,43705.04,13047.01,6,0.28
+ab1d75a8-8501-447a-9499-18b9f78c8d30,2024-02-18,Central India,Guwahati,Electronics,Retail,3072.95,,37,
+2988eef3-7747-41e5-b0af-d46e992f7708,2023-04-17,North India,Ahmedabad,Groceries,Corporate,18167.17,922.96,46,0.16
+81af84a5-cf3e-4152-9b7a-ace08d38a72c,2023-07-14,South India,Patna,Home Appliances,Corporate,33164.4,-355.84,43,0.2
+9c90a2e1-29d4-4e45-b66a-5eb15d22b4ab,2024-04-17,North India,Chennai,Electronics,Individual,26451.88,6629.47,49,0.25
+51af6e5f-caf6-416c-960a-3e1af6547abd,2023-09-29,West India,Indore,Electronics,Corporate,24069.61,2921.53,36,0.04
+e9ffe26d-29a0-4cce-94d7-bd3096ae0fb6,2024-05-24,North India,Bangalore,Apparel,Corporate,25547.93,,15,
+cc0e7a99-048f-4d98-8585-7a6ded368ac8,2023-07-08,North India,Mumbai,Home Appliances,Corporate,12433.56,10151.07,10,0.06
+161e3128-5eec-4c92-a16b-ff0499a7071d,2023-08-15,East India,Kochi,Groceries,Retail,16572.52,16731.72,23,0.12
+8712e73c-cf7c-4e28-ac21-e2e3bbdf5c31,2024-03-26,West India,Kolkata,Groceries,Corporate,19399.76,11971.92,9,0.11
+c579c33c-07b9-4722-a51a-4c68152f34fa,2024-12-31,South India,Guwahati,Electronics,Individual,44717.06,16883.44,41,0.21
+aae3b5f5-360a-4b4d-8942-8ac4b3d2130a,2023-09-18,West India,Delhi,Apparel,Individual,16947.33,,29,
+129270c8-30de-4967-a43c-a43c2a1ce136,2023-11-23,East India,Raipur,Groceries,Individual,40990.41,12327.03,10,0.22
+6b195f71-07ff-4c06-8a92-6ae118e5710a,2023-09-06,West India,Kochi,Books,Individual,16994.78,2232.07,28,0.1
+2c1b43c5-a973-4571-8099-a2d5327bdf1a,2024-12-07,Central India,Kolkata,Electronics,Individual,4090.62,8379.76,26,0.05
+d602f253-4a29-4352-9df4-c5e11defd20f,2023-07-22,West India,Ahmedabad,Home Appliances,Individual,48028.44,,46,
+5836a56d-079e-4ea5-a9b2-bbd55109d5fa,2024-01-15,North India,Raipur,Books,Corporate,7987.63,15366.92,10,0.24
+72c711fd-9167-49de-8208-d85a448cea0b,2025-01-05,West India,Indore,Books,Retail,39925.58,9877.53,34,0.02
+b9a73882-ac14-4210-9f3e-3cd222225e1f,2023-06-09,East India,Raipur,Apparel,Individual,6875.94,-699.57,27,0.01
+a549b814-b436-4937-915b-f31113c10f7e,2024-05-25,West India,Nagpur,Home Appliances,Retail,42117.08,11755.94,7,0.02
+3efd07ac-5055-46e7-a651-098ad7eb39ad,2023-04-01,Central India,Chennai,Groceries,Corporate,40285.23,15829.83,46,0.08
+22185a15-4e65-411f-abc1-0cc5a9adc6a6,2023-12-28,Central India,Chandigarh,Home Appliances,Individual,11477.57,508.05,45,0.08
+00793ef3-1e4b-4feb-9011-01443044b49b,2023-11-25,North India,Raipur,Books,Corporate,34401.97,-163.77,9,0.04
+eac717cc-e13e-4f3f-8dd6-a8d0a64e5f35,2023-01-28,Central India,Ahmedabad,Home Appliances,Individual,32305.27,9562.37,33,0.07
+b0db2456-5ad5-4104-a306-d0877dfbadfc,2023-09-08,West India,Bangalore,Books,Corporate,47187.84,1103.69,10,0.01
+704ffdc3-4627-4a10-8b4f-023574f01bba,2024-09-15,East India,Guwahati,Groceries,Corporate,9801.82,6995.08,12,0.26
+5d3b031b-6210-4c6a-b9ee-4116b910d89e,2023-07-02,North India,Mumbai,Electronics,Retail,43711.74,15921.44,50,0.3
+f71782ad-5833-4d4d-9afb-acfb5393d51b,2023-09-13,North India,Patna,Groceries,Retail,46766.99,10031.77,17,0.1
+0a6596f9-6216-4698-9608-bc395bee9b4f,2023-11-07,North India,Lucknow,Electronics,Individual,39536.6,7246.21,17,0.2
+59dea784-13fc-48ae-8be1-0fddb08cc231,2024-08-14,West India,Ahmedabad,Books,Individual,23916.47,-677.77,6,0.26
+a4b0f4d0-82eb-475b-aca0-81942a9e15e4,2024-01-17,Central India,Patna,Home Appliances,Individual,33948.52,6015.36,28,0.17
+4dc2c7fa-a55d-4342-9f85-81da0b219438,2023-07-17,North India,Chennai,Apparel,Individual,30964.87,8446.65,6,0.3
+bece2346-f52f-415b-aa30-f3cee3767c85,2023-03-09,East India,Pune,Home Appliances,Corporate,35139.09,,49,
+be815edb-b76a-48fb-8bfb-596096114f12,2023-03-21,Central India,Chennai,Electronics,Retail,12818.69,19192.35,38,0.11
+b96e2165-e358-436b-b214-99d840b26984,2023-09-01,South India,Pune,Electronics,Corporate,17395.63,10888.37,40,0.19
+352408b6-97b0-4bf6-8766-c385b968df82,2023-07-22,North India,Hyderabad,Electronics,Corporate,6309.11,10897.16,23,0.11
+9f3f9528-f2e3-4de1-8cc9-d292835c32c9,2024-03-23,South India,Bhopal,Books,Corporate,19667.08,2062.07,23,0.05
+e41172bb-6e5d-4de9-b2bb-0fd1461348cb,2023-08-08,South India,Guwahati,Books,Individual,47461.28,3689.65,9,0.09
+75ecff3f-48f4-4bcc-8a78-f2925bdf658c,2023-06-22,South India,Surat,Groceries,Individual,3372.09,194.78,11,0.25
+2d64cadd-8734-4fff-b878-0747b0d54b65,2024-03-07,North India,Kolkata,Groceries,Individual,10221.4,19829.47,36,0.18
+49df8419-d828-4a09-a5db-c95d1d41d691,2024-10-25,North India,Jaipur,Electronics,Individual,32702.4,15262.81,11,0.18
+d23c570a-3e94-4fee-b548-e3656f9a5fd2,2024-01-13,East India,Kolkata,Groceries,Individual,46231.78,7977.64,45,0.22
+8da34200-8786-4cea-8db8-6ad8e8554b21,2023-07-15,East India,Kolkata,Apparel,Retail,43369.81,18871.21,42,0.3
+936b8260-cd0f-4d04-81e8-4ad86254c931,2024-04-24,North India,Kolkata,Home Appliances,Corporate,49412.35,15939.19,34,0.18
+d278a7dd-0ce3-474f-a7f5-0dc071bfc805,2024-04-14,Central India,Nagpur,Electronics,Corporate,33279.88,,17,
+91968b29-4fb7-45cc-a8e7-92b5087dd49d,2023-09-10,North India,Delhi,Groceries,Individual,15222.28,17128.09,6,0.14
+c75e70ba-34c8-4bd6-a5bd-8a7f896e79fa,2023-03-18,North India,Raipur,Home Appliances,Individual,6041.98,8411.06,22,0.23
+7ca71dea-f64e-4fd4-bc58-ff32bde1b813,2023-05-08,North India,Raipur,Groceries,Individual,31562.3,6218.49,26,0.01
+a1ab15af-dea3-41ea-a621-5f2a85834394,2023-03-06,East India,Chennai,Home Appliances,Retail,6766.9,1877.87,23,0.0
+78583b2a-baf4-46c0-bbe0-52014f1fef50,2024-02-21,West India,Bhopal,Apparel,Corporate,7053.53,836.68,14,0.18
+79d48086-5196-4a63-adb3-a268d894b0cf,2023-05-21,West India,Raipur,Groceries,Retail,9914.39,16854.75,3,0.07
+0a222773-6390-41c6-a5a2-69498bebd1df,2024-05-17,South India,Jaipur,Apparel,Retail,6021.97,-31.17,34,0.04
+8654d4ff-04e6-45eb-8e1b-3a4e5597cd31,2023-09-12,Central India,Bhubaneswar,Books,Individual,1965.11,,1,
+c50abf37-eebd-4994-87a6-5c9182ae38c5,2024-08-24,South India,Surat,Groceries,Individual,33595.28,13046.65,1,0.11
+a08af53b-1a99-4ece-a46a-e3ba2c61f5d2,2024-12-14,East India,Delhi,Books,Retail,38177.17,15409.62,10,0.2
+b89bb101-2bf4-4d4a-a1f0-cbb6eb65c8d4,2024-04-23,West India,Jaipur,Apparel,Individual,30490.26,12849.73,28,0.25
+9f893966-70ba-4eb6-9e8c-a3f3a7bed2ca,2024-09-01,North India,Pune,Apparel,Individual,12360.47,5314.11,6,0.18
+511807b9-6e73-447c-8931-6c5212175c5b,2023-09-04,North India,Mumbai,Groceries,Corporate,31416.98,10175.38,4,0.21
+5bd8a200-ac7e-427f-be3b-afeb7a59633f,2024-12-13,South India,Chennai,Books,Corporate,13381.64,9158.09,6,0.15
+1f56610c-ee40-437a-88bb-43d8f4a99a65,2023-12-03,South India,Chennai,Books,Retail,16242.84,13946.24,20,0.08
+3e8e8177-ee50-40ae-9dcf-ac315ad219e5,2024-11-15,West India,Bhopal,Books,Individual,36888.53,626.54,17,0.26
+0357c186-8045-49e9-abf0-305363ddbf4a,2024-01-28,Central India,Ahmedabad,Groceries,Retail,7714.57,,23,
+05c89609-f740-47c8-9509-5eb8862d9b69,2023-09-26,South India,Chandigarh,Electronics,Individual,23744.74,11498.82,30,0.26
+2eb83369-9369-4259-8c03-ea9e61f1bc1c,2023-02-01,East India,Nagpur,Electronics,Corporate,22256.87,5051.88,27,0.22
+304dd6dd-244a-4b2c-9428-403c6180f3a9,2023-02-16,East India,Lucknow,Apparel,Individual,33514.33,4763.27,37,0.01
+39478b61-44e1-47b6-acab-248222a36623,2024-02-15,West India,Guwahati,Groceries,Individual,32077.64,272.04,40,0.14
+0a761b9a-2520-4797-92fe-39306440777a,2024-05-12,North India,Raipur,Groceries,Corporate,37102.83,13650.31,8,0.18
+6bca47d3-12dc-4fd5-8686-222a7e56ea63,2023-12-27,South India,Chennai,Home Appliances,Individual,19107.39,7091.25,1,0.25
+f6276642-e142-4374-be05-32dfcbd88cb0,2024-10-23,West India,Chandigarh,Books,Corporate,41892.95,1088.68,41,0.15
+82bb4c57-8374-4c6c-8640-b36b28f940ca,2024-07-02,West India,Ahmedabad,Electronics,Retail,48095.07,17533.92,24,0.0
+70ccce7f-938f-4681-85d3-bbaa76e383fe,2024-08-05,South India,Ahmedabad,Electronics,Corporate,48752.38,17195.48,36,0.03
+e0bb2ea4-6651-4a03-aeee-f5f8a81c85d2,2024-02-14,South India,Jaipur,Electronics,Individual,7016.59,11768.75,37,0.24
+b6f98fa4-28d3-457b-ace5-3ae778083a9d,2023-07-01,South India,Hyderabad,Home Appliances,Corporate,48911.12,10352.15,37,0.16
+cb71c908-e998-4b0e-a86c-085240f30552,2023-03-26,South India,Delhi,Electronics,Individual,1513.2,6162.57,17,0.21
+2ea55fe2-80b5-4a8f-8b70-a018aa00ae3a,2023-05-18,West India,Chennai,Books,Retail,10239.58,9325.54,20,0.22
+1c16cb96-d93e-4ad8-9586-dedacdfadf5e,2023-03-16,South India,Bhopal,Home Appliances,Individual,36300.13,3692.63,43,0.15
+27881baa-a09e-4841-b4a9-1156d5b37ae6,2023-09-14,North India,Surat,Apparel,Corporate,6586.62,5729.01,41,0.14
+20fe95b1-9df5-4171-9c32-ab68e0b6704d,2023-07-23,North India,Chandigarh,Electronics,Individual,47291.93,14743.84,39,0.29
+040ca6f8-185c-436e-8ca8-d7715f38b402,2024-01-08,South India,Ahmedabad,Apparel,Individual,2377.45,17337.7,40,0.26
+1c5e4200-1dd5-434b-9ae7-2b972e7324b6,2025-01-11,East India,Jaipur,Books,Individual,15887.85,13678.06,9,0.21
+397bcb2b-f3ce-4c86-b4dd-ccd2c7d887d2,2024-03-06,Central India,Nagpur,Apparel,Retail,20511.16,9705.3,13,0.12
+cfa1d0eb-03d4-4f08-90ac-450ee684d4ac,2024-06-08,West India,Lucknow,Books,Corporate,49400.05,11781.41,30,0.04
+b64e2242-21c5-4710-9bc5-7d87e37793ac,2023-05-26,North India,Guwahati,Groceries,Individual,33964.81,1965.54,35,0.11
+c1210d0a-abb5-4a63-9f58-8bdeb5f727f0,2024-08-09,West India,Bhopal,Apparel,Corporate,30469.3,8435.72,35,0.13
+a224abf2-76f8-476c-9dd5-92764a5dc160,2024-04-12,Central India,Guwahati,Home Appliances,Individual,11296.37,10071.61,10,0.25
+b54b024e-1c43-43ec-94ea-d4340bb5f419,2023-06-25,East India,Lucknow,Apparel,Individual,3395.99,6447.8,29,0.13
+ca3c8071-e07a-4f07-b280-bec47bd2eccb,2023-09-03,East India,Chennai,Groceries,Retail,26952.48,,49,
+7e4d5795-a081-4da6-adb5-fe5243af21a0,2025-01-11,North India,Hyderabad,Home Appliances,Retail,29289.84,,38,
+69a0fb22-0572-4917-8807-56d935f3cd80,2024-12-17,South India,Indore,Apparel,Retail,10612.85,12078.4,50,0.08
+507cc03f-99e0-4c3f-ad9e-06e2ca03b7d2,2023-09-06,North India,Bangalore,Groceries,Retail,8721.28,-761.59,30,0.3
+da95a64b-dd37-40b0-acbe-15d7e9786e80,2024-03-22,West India,Pune,Groceries,Individual,47232.79,7753.97,33,0.02
+b331dce2-5bc2-4856-b5fc-17ebe5dd9d54,2023-03-29,East India,Mumbai,Electronics,Individual,13152.69,7345.69,5,0.21
+9abf2edd-3047-4e65-b0a3-5c19f5253738,2023-11-29,Central India,Bangalore,Groceries,Corporate,12604.37,-475.55,28,0.22
+6c80e923-5642-4117-8c64-785c311e6651,2023-05-11,West India,Bhubaneswar,Electronics,Retail,36754.0,501.58,48,0.07
+b0d82432-d452-419f-abdb-438226f970dc,2023-08-25,South India,Hyderabad,Home Appliances,Corporate,33239.85,18260.91,4,0.01
+b0e44177-e5fe-44bc-91a2-79ac79f58861,2023-03-17,South India,Mumbai,Apparel,Individual,21103.17,17452.5,31,0.27
+9c921802-9635-4e66-8beb-ad487b5175e7,2023-10-11,Central India,Bhubaneswar,Groceries,Retail,19676.89,,18,
+0be733fe-0d06-4ab8-8bb0-8fa30c0ef8f5,2025-01-12,North India,Chennai,Groceries,Corporate,1362.83,10996.62,34,0.23
+7c43b185-17f7-40f5-8e85-a53b9960f9ea,2024-02-21,North India,Delhi,Electronics,Corporate,34453.52,12172.56,12,0.16
+93e915d5-479c-4b7a-ae22-ebe2b5444c9c,2023-05-15,West India,Lucknow,Books,Retail,27926.63,,35,
+94e97c95-bb50-4950-a307-88a27888ba50,2023-09-20,Central India,Hyderabad,Books,Retail,38296.02,4249.47,19,0.08
+3e7273c6-10ea-4c3e-bb43-ee8baa3e5e59,2023-06-20,North India,Jaipur,Home Appliances,Retail,9811.44,19154.75,23,0.18
+d1489052-5e9d-45cf-b8fe-21db63d3251f,2024-09-21,South India,Surat,Electronics,Retail,42835.87,-889.55,40,0.0
+504c98f8-f0ed-4dff-b11a-990b2e1c2ea2,2024-12-12,North India,Chennai,Apparel,Individual,17572.54,8637.62,5,0.25
+b77be95b-18d7-4d4c-9fac-9c63a2fffdd9,2024-12-10,North India,Bangalore,Books,Retail,48847.96,5200.14,29,0.11
+69882187-ad0e-4c8b-a9b8-b31027e3830c,2025-01-23,Central India,Bangalore,Apparel,Corporate,10030.54,14366.74,38,0.24
+41303a23-260a-455c-9821-5b7276f2d6cd,2024-12-14,West India,Bhopal,Electronics,Retail,37562.79,13426.78,1,0.26
+3ac6eb72-6a49-41fc-8425-82d2c3015531,2025-01-16,East India,Surat,Groceries,Individual,12771.46,19710.35,14,0.04
+60b84d5d-2127-4d98-9125-f6815ec3a7a0,2024-12-03,West India,Kochi,Electronics,Corporate,34380.9,711.13,21,0.21
+11fe07e5-3d0d-4604-a0d6-3afb5c7e4413,2024-05-20,North India,Bhubaneswar,Apparel,Individual,15108.8,1348.01,3,0.3
+52630078-6e23-4081-ab89-4403511a1aa1,2023-06-24,East India,Bangalore,Groceries,Retail,10707.81,,50,
+a026675f-3fca-4a8e-809a-6f42852ebc8e,2024-03-09,Central India,Indore,Books,Corporate,45246.38,6135.77,27,0.26
+0c7eedb0-ff39-408b-91cc-693e28c9fdf3,2024-04-06,Central India,Indore,Electronics,Individual,25257.58,15753.58,43,0.1
+bebfe0d7-a770-4943-8f45-4511b8b3824c,2024-02-28,West India,Chandigarh,Electronics,Individual,10321.24,16743.12,13,0.02
+6cd2f510-ffa2-4e0d-8108-39147901deff,2024-10-22,East India,Delhi,Groceries,Retail,33219.47,13478.54,14,0.22
+bef550cb-9224-4abe-8ee4-26522f1a7224,2023-04-14,North India,Raipur,Books,Individual,42150.76,13436.48,19,0.13
+a8f9e714-4c1c-460a-ab4c-02de58163ab7,2024-09-18,East India,Chennai,Apparel,Corporate,34922.9,17221.22,31,0.2
+76ae313d-235b-4e27-843f-19d05cccb605,2023-11-19,South India,Hyderabad,Books,Corporate,15351.18,10583.46,47,0.12
+a8e9dbc8-bddb-4b11-ada9-89a3d0545cc3,2023-06-16,West India,Lucknow,Home Appliances,Corporate,46864.89,6924.5,38,0.0
+b69cce9b-9d81-4057-8969-4a9ecb50ae7f,2024-02-22,West India,Bhopal,Groceries,Corporate,14231.55,15508.89,32,0.21
+901a9fe3-d9c5-402f-b514-3588ddf41c5c,2025-01-26,Central India,Chandigarh,Books,Retail,20850.35,284.87,1,0.08
+4d057466-be03-47f5-8573-e66c2272a066,2023-07-22,East India,Delhi,Electronics,Retail,6221.95,3665.93,37,0.19
+89ee7f9f-d011-458e-a7b9-fbb8e66aa153,2024-10-18,East India,Kochi,Groceries,Corporate,31869.24,13161.6,48,0.26
+9fcafc4c-6fe8-4925-a6ca-700a39a88ffc,2023-12-28,East India,Indore,Books,Retail,31470.71,2805.67,28,0.0
+8656282c-3424-477c-827d-c63fc40d62cd,2024-03-19,East India,Chandigarh,Books,Retail,16009.9,12030.14,2,0.22
+625aaf88-5533-4786-ac54-d674bacb8dc9,2023-02-15,North India,Hyderabad,Apparel,Retail,17913.52,16030.15,26,0.02
+2d8eb1e1-f2b9-45cd-8c21-62a24644dac8,2023-05-19,South India,Guwahati,Electronics,Corporate,33143.4,-684.96,24,0.24
+73090360-e316-477e-b6ca-a6ef5b146992,2024-12-05,North India,Kochi,Books,Corporate,43504.52,,39,
+7a5883a2-9e3d-4f53-bce4-19155bf04fae,2023-12-22,Central India,Hyderabad,Apparel,Corporate,10039.6,2601.27,13,0.04
+b2292822-b752-4bf8-b328-02bbfd152f7a,2023-09-02,South India,Chandigarh,Home Appliances,Corporate,18131.73,3687.39,23,0.06
+c924a880-8ee7-4214-bb80-bcc6b14d1221,2024-10-06,West India,Guwahati,Apparel,Retail,37027.38,1489.02,1,0.23
+37783bf5-ac93-4a23-958a-1ff59ab40a79,2024-08-28,North India,Bhubaneswar,Apparel,Individual,33532.89,16287.75,8,0.1
+68b6e7e7-8d9f-451e-b5e7-de45e1690b95,2023-11-04,East India,Bhubaneswar,Books,Retail,812.62,10057.19,1,0.0
+3a24a698-935b-4e86-85cd-78a7801c366a,2024-03-23,West India,Bhubaneswar,Books,Retail,30204.61,15232.86,22,0.13
+5356c708-836c-49b1-ba20-5eae96c4fc3c,2024-01-30,West India,Indore,Books,Corporate,12024.56,18065.61,10,0.1
+071153af-9d11-4076-bf00-c37757c23574,2024-01-21,South India,Hyderabad,Home Appliances,Retail,1447.13,9811.86,38,0.27
+734e9ccc-f371-47e4-b80f-978c7fa4bc13,2025-01-22,East India,Nagpur,Apparel,Corporate,12876.26,13767.12,26,0.13
+7ba2650e-fc69-45cc-8120-670b12bed880,2023-10-29,West India,Chennai,Home Appliances,Individual,37201.87,2805.43,40,0.29
+5f9ee622-9627-4264-a22b-e5712dababa7,2024-12-19,South India,Patna,Apparel,Corporate,39584.83,16835.54,25,0.14
+b5fe6556-5bb3-45f7-be90-882a83d432ea,2024-04-14,South India,Kolkata,Apparel,Individual,13831.31,4347.73,13,0.05
+c8c24bee-b7a1-4db9-ba20-1abb5fc92cf1,2024-06-14,West India,Kochi,Books,Individual,6233.08,17740.71,42,0.0
+38393adc-6a5c-427f-b9e1-6465de292b9b,2023-05-20,West India,Mumbai,Home Appliances,Corporate,8820.81,10137.2,2,0.3
+5c07a81d-10b2-41b9-b515-38898e6c0ee2,2024-08-05,South India,Jaipur,Electronics,Retail,17121.45,16244.94,18,0.07
+b89142ec-1bb9-43a1-a1ee-46ccc1322fd6,2024-11-14,West India,Guwahati,Apparel,Retail,15024.11,15677.6,43,0.2
+3553ac10-52dc-49b8-8adc-5ae67740c7bf,2023-08-28,West India,Indore,Books,Retail,44584.32,5984.66,20,0.25
+00272f44-5dc2-4f05-bde1-560539b51fea,2024-04-25,East India,Patna,Books,Individual,22644.29,-432.23,11,0.18
+8248d730-4b85-49ce-87be-83f2678f8170,2023-11-30,South India,Pune,Apparel,Corporate,44981.68,-683.47,30,0.09
+8b2912b7-ef75-45f9-be4d-48d9903b40dd,2024-04-22,South India,Hyderabad,Electronics,Retail,14004.11,11490.16,22,0.12
+74001b49-b9dd-4ccc-84b7-0f8ffe1f7905,2024-10-08,North India,Jaipur,Electronics,Corporate,33863.19,-987.71,17,0.28
+83074b68-f845-4398-8b2b-8613e26a8b12,2025-01-13,East India,Bhopal,Books,Individual,7818.41,7485.76,43,0.21
+1f51fb3b-538f-4fad-9f9d-fbf074fe3f54,2024-07-22,Central India,Chandigarh,Apparel,Corporate,49200.65,,34,
+879df5ee-3d1f-4470-8ac1-e4fe2c9a1b17,2024-06-30,North India,Patna,Electronics,Corporate,19333.31,4847.48,21,0.29
+3ab077f8-1401-45a1-9ac5-b820e70c8509,2024-05-10,East India,Jaipur,Apparel,Corporate,8356.62,6789.29,35,0.15
+4b2a8d1a-b6ae-4f83-86e3-d63488339471,2024-12-19,North India,Bhubaneswar,Groceries,Individual,37364.42,1520.78,41,0.2
+2e3e74e9-f38c-46be-9bdc-624427abf546,2024-04-28,East India,Bhubaneswar,Home Appliances,Corporate,28925.55,-65.86,15,0.12
+d0e45c30-cd55-4ae6-8cec-94268a8dfd60,2023-11-10,West India,Raipur,Apparel,Corporate,8735.06,8087.87,25,0.13
+940acdd9-6064-4e00-b2af-29eec8fe7cf0,2023-08-16,North India,Nagpur,Books,Retail,5241.75,10739.14,30,0.1
+e5f64083-3e24-4051-8284-4138a5bbb74b,2023-02-15,Central India,Chennai,Groceries,Individual,34865.28,18580.0,42,0.23
+ad274c13-a6a2-43fa-bbe6-3de77fbf22d6,2023-12-23,North India,Pune,Electronics,Individual,44256.22,428.76,16,0.1
+f6451185-bdd1-4dda-a7a7-f78fc9ac5d10,2024-03-12,Central India,Delhi,Apparel,Retail,20736.69,5067.12,35,0.08
+41527bef-220d-47ca-8db4-d1f867e7d5e1,2023-05-14,East India,Indore,Home Appliances,Retail,2591.46,10238.2,23,0.16
+e12382f2-7da4-4ebf-b48f-36bb6e17e9c1,2023-04-27,North India,Hyderabad,Books,Individual,34517.14,12910.88,28,0.08
+7be0cc0b-db89-458e-8f28-f3982df7a208,2024-01-21,East India,Indore,Electronics,Retail,45850.73,6646.12,31,0.19
+ae5783de-c6d1-4b96-813c-8345936f606e,2024-11-30,North India,Nagpur,Electronics,Individual,35860.46,16843.53,35,0.07
+92c51c42-6b28-4c9e-90aa-1fd985faf9c3,2023-08-01,Central India,Bhopal,Groceries,Individual,45833.96,8773.41,11,0.22
+af4dac47-542a-4a4c-a8fe-94d5f9f0adc8,2024-02-24,Central India,Chandigarh,Apparel,Corporate,19669.02,19240.71,11,0.07
+94939cf5-8bad-4589-8d4f-753b478a683b,2024-10-15,Central India,Raipur,Groceries,Corporate,21299.72,16469.55,23,0.14
+80a9513e-8336-4f82-aaef-4315bc28cde8,2023-09-26,North India,Patna,Apparel,Retail,38492.58,15437.89,11,0.11
+cbf71265-f8fe-425f-acb6-4db078f26b01,2023-04-12,Central India,Guwahati,Books,Retail,37854.27,,1,
+150721e3-9f87-4655-9d60-1aa1a70e49ec,2024-08-18,East India,Indore,Groceries,Retail,44724.22,10245.19,31,0.06
+64d4bb79-9dd7-49e5-a9fd-297ffb459da8,2024-03-10,West India,Hyderabad,Apparel,Corporate,42844.62,15272.92,45,0.1
+da0516f6-ad07-424c-953d-e50f19ff5b67,2023-10-05,Central India,Ahmedabad,Electronics,Individual,36820.32,5890.07,34,0.15
+bff5e392-734e-4215-8b9e-26b825b1181b,2024-02-11,East India,Surat,Books,Individual,38874.32,1671.27,49,0.23
+0d288cf7-a819-408a-ae64-1197e8467a70,2023-04-13,East India,Nagpur,Groceries,Individual,40533.95,7952.72,17,0.15
+0358590e-3295-4386-9b66-f1e20a374a9c,2023-11-28,East India,Pune,Books,Corporate,15814.56,,46,
+43edeaf2-bcbb-42b6-ad04-39bb81e538d3,2023-04-22,South India,Kolkata,Home Appliances,Retail,22793.0,8539.3,38,0.08
+30a61567-832b-4676-b8df-b4f9119b2464,2024-12-03,South India,Kolkata,Books,Retail,12878.88,,21,
+8b952393-4362-46b4-b7ae-eb7638e1b8af,2024-09-22,West India,Jaipur,Groceries,Retail,40124.1,3157.38,2,0.28
+aeaca1b1-0f1a-42d7-853f-640fc3730d4c,2023-07-15,North India,Chennai,Home Appliances,Retail,45234.47,12191.79,27,0.11
+cf8d4bb4-3785-4eb2-8d0a-b5706dd9edb2,2024-09-03,West India,Surat,Home Appliances,Retail,42694.69,-956.63,30,0.07
+ba0c5f8e-5e2d-4005-8f29-a3c41725c49b,2024-08-12,Central India,Bangalore,Apparel,Corporate,17574.02,,24,
+dd900ebb-0bf5-4fac-9c0e-51b30a2b4dd9,2024-07-27,South India,Bangalore,Groceries,Individual,24053.59,9584.11,25,0.27
+825856f0-3ccd-420e-8df5-af09ebbf4c31,2025-01-03,Central India,Raipur,Home Appliances,Individual,6593.03,8364.42,10,0.08
+eee3ba7c-4d38-4b31-b732-714fa070489d,2024-12-20,West India,Bangalore,Books,Corporate,31521.35,15762.67,13,0.1
+6157e7c7-958c-4db8-8f9a-9613591f604e,2023-04-04,North India,Delhi,Apparel,Individual,43226.58,2083.6,17,0.02
+40887f7c-49e4-4e3d-b342-eb2d74982191,2024-05-04,West India,Pune,Electronics,Corporate,28089.09,5987.51,14,0.05
+10561856-8e76-44cb-a218-0853df6f59f4,2024-12-06,East India,Lucknow,Groceries,Corporate,36528.45,12730.8,36,0.11
+db04f970-b80d-4e0f-a2d9-2c18cea1bb1a,2023-02-25,West India,Chandigarh,Electronics,Corporate,48318.07,,48,
+e5069a45-22b0-45bd-aa35-64cb0977e1a2,2024-11-20,West India,Hyderabad,Books,Corporate,5068.55,7963.9,26,0.14
+08e74080-3a25-4277-acba-2f879662d3a2,2024-05-11,East India,Chennai,Electronics,Individual,15627.16,5709.94,4,0.13
+fd74ea3c-955c-4759-96e0-df766465826a,2023-06-27,North India,Pune,Books,Corporate,6899.32,16493.24,35,0.02
+babed7ed-31a9-4088-b665-6a3741b1f12d,2023-10-19,South India,Bhubaneswar,Home Appliances,Corporate,21901.5,11850.63,8,0.1
+a2665604-9b4f-440b-9bfc-3521656c4d3c,2024-03-28,Central India,Patna,Groceries,Individual,18650.34,,45,
+5b9d0fb5-1fae-4aa2-ba9d-b6697418adbf,2023-07-05,Central India,Bhubaneswar,Books,Retail,46652.32,1757.82,2,0.14
+684a883e-38f2-40b1-bc3d-0d617bbae5e2,2023-10-16,North India,Lucknow,Home Appliances,Retail,4304.1,3324.63,22,0.04
+09f37d8a-bc25-4f0e-a544-c86cb09e7479,2023-05-04,North India,Hyderabad,Electronics,Individual,21035.6,15856.95,16,0.1
+3e911bbd-f167-438e-a8e5-2fe32195673e,2023-02-03,West India,Jaipur,Groceries,Retail,37533.87,17463.37,18,0.25
+bb891220-ceed-4ae7-8814-dff8917cbffe,2024-06-22,East India,Ahmedabad,Electronics,Retail,9286.13,13184.09,50,0.15
+8e4f0f38-8d78-4f38-8a6d-a436d85a1550,2024-02-22,South India,Delhi,Electronics,Corporate,22329.59,18032.37,3,0.0
+e71dd4e8-9e66-4758-a2d6-83c3f41cd853,2023-07-07,Central India,Hyderabad,Home Appliances,Retail,11607.13,10044.98,32,0.23
+a23e3921-6dd5-4edc-8f1d-91732a01db69,2024-12-25,East India,Jaipur,Groceries,Individual,8509.11,7677.49,22,0.07
+cfb847f9-66ac-4b00-9010-a712e7a349b6,2023-09-14,South India,Bhopal,Apparel,Individual,48432.26,12351.54,29,0.2
+840f0ae5-8f09-4579-9ba7-b4ee2413ddf1,2023-08-28,West India,Indore,Electronics,Individual,5325.85,8860.41,30,0.15
+6cc826d2-61f3-4e7f-a15b-3b9a83342e8b,2024-10-31,West India,Guwahati,Apparel,Individual,31715.11,17490.72,17,0.06
+29d06234-90c8-4ea4-9ad4-b33057aa3438,2023-07-04,West India,Kochi,Electronics,Corporate,20378.81,16916.4,10,0.22
+eaef278f-8dbe-4ff1-9f3f-c9436d792fc0,2024-04-27,North India,Indore,Electronics,Retail,17103.34,,49,
+9fa29551-31ab-447a-a6f2-f7ff4acee6a1,2024-05-04,North India,Ahmedabad,Electronics,Retail,17563.89,,31,
+e479054c-efac-4939-a582-13768f532ada,2024-07-14,Central India,Bhopal,Books,Corporate,31771.44,5694.05,9,0.06
+d70f49f7-1e58-44e3-b0b0-11f2bd7615f7,2024-04-01,South India,Kochi,Groceries,Retail,36849.96,1158.6,1,0.15
+f6d69164-d782-46ce-8b8c-aad6721f0de3,2023-06-06,North India,Chandigarh,Groceries,Corporate,4014.28,-790.48,29,0.09
+5c3833e4-2dc1-4e6c-9d4f-7c06d5cb42e7,2024-06-03,North India,Ahmedabad,Books,Retail,14798.89,15021.92,28,0.16
+67f9d2ef-9580-4c55-bd84-7e6ed86c7bcd,2023-09-12,East India,Delhi,Books,Corporate,11924.31,10921.38,37,0.25
+4812c524-0a1b-44cd-9a2b-ff3c068ec096,2023-07-01,Central India,Pune,Apparel,Corporate,40009.9,-53.04,21,0.3
+a6ad411a-41e3-4c9c-9260-483834f777be,2023-05-13,South India,Mumbai,Groceries,Retail,5503.53,16375.66,47,0.0
+d8057c16-4c47-4d14-8e81-c8c82bb7774f,2023-11-20,North India,Pune,Groceries,Retail,29552.76,403.32,44,0.03
+e5ccf0a9-8ea7-4696-b75f-b63985c1025c,2023-11-16,South India,Bhopal,Home Appliances,Corporate,20608.03,,33,
+029b8769-f59d-4319-b697-86161baa4dad,2024-10-12,East India,Surat,Home Appliances,Corporate,18573.58,14718.33,5,0.05
+fb5b2963-2f15-4417-a796-a319f22fc289,2025-01-22,East India,Jaipur,Home Appliances,Corporate,46985.95,-236.68,34,0.1
+35b0bb60-1abb-4b69-9a22-ce52fc6dfdfe,2023-11-21,Central India,Pune,Electronics,Retail,16704.36,8156.68,18,0.3
+392aba12-8748-4bcb-aac2-8f1405ee7866,2024-08-09,South India,Delhi,Books,Retail,38937.9,-281.82,23,0.24
+e2c682c0-d1a5-458c-afb6-8019db75e2cc,2024-03-04,Central India,Patna,Groceries,Retail,45195.59,1435.75,25,0.19
+0d8abf63-4555-4277-9419-21953645f9b6,2023-05-15,North India,Delhi,Home Appliances,Retail,25969.33,11707.83,28,0.14
+4f6c6d79-a23a-4710-ba72-563ca262c175,2023-02-23,North India,Bangalore,Home Appliances,Retail,47521.79,4155.92,8,0.08
+08afae6a-bc6b-4552-b689-67f158e43954,2024-01-10,West India,Delhi,Apparel,Retail,29642.23,18996.75,35,0.26
+49362a43-6ad7-43cd-902c-77d66a355d45,2024-07-24,South India,Pune,Home Appliances,Retail,38246.07,,22,
+83949e69-f68b-424f-a172-7e24d64dd3fa,2024-06-01,South India,Kochi,Home Appliances,Individual,20876.11,-518.73,15,0.29
+25db7dec-1fcf-4e3e-9f88-afe7a9c91a2d,2023-09-17,South India,Jaipur,Electronics,Individual,9813.72,19706.57,27,0.2
+389e44b0-bfe6-4339-a635-d65fa6ffb817,2023-06-24,Central India,Hyderabad,Apparel,Retail,26860.72,2263.21,12,0.11
+469e06ae-e28a-4811-b902-8c632b3a37e1,2024-02-09,South India,Jaipur,Electronics,Retail,20042.76,,11,
+5685ee54-11dd-45bb-a682-3fd2a7b804d5,2024-07-19,West India,Ahmedabad,Groceries,Corporate,16027.98,,14,
+61702e5d-fead-4fba-b211-dbd9a7c5739d,2024-07-15,East India,Hyderabad,Books,Individual,23282.7,9538.7,22,0.07
+8bdefd18-f51a-435e-bc7a-76ffeae401d6,2023-12-02,East India,Pune,Electronics,Corporate,14043.66,18966.15,37,0.16
+41c5d90a-9d21-4465-a335-94e60dc857ff,2023-05-08,Central India,Chennai,Books,Corporate,24019.8,10180.12,48,0.09
+defb7486-3b95-4da5-b57f-a4ac8ffa334b,2024-12-24,North India,Chennai,Home Appliances,Individual,21864.8,16446.71,33,0.27
+6a80f825-3bd7-40be-a540-e1c0dc017a39,2023-10-18,East India,Bangalore,Electronics,Individual,21385.86,18145.14,28,0.18
+2e8b7a3d-454e-4c02-bb32-a50b7787b7b6,2023-07-05,West India,Chandigarh,Groceries,Individual,16531.76,9076.39,41,0.28
+9d4cf1c7-3d95-48c8-9bdf-20def6e2df71,2024-09-08,West India,Lucknow,Groceries,Individual,46494.34,15982.76,1,0.13
+b5b11e8e-df2b-42cf-bcc0-7a00e6e13d2d,2023-09-18,Central India,Ahmedabad,Groceries,Retail,40329.0,,7,
+f4efcfe3-2e11-41f3-8f8a-840ab3bbba65,2024-09-28,South India,Bangalore,Home Appliances,Individual,45745.26,12770.88,36,0.07
+469c1054-bb1d-43c9-9de9-b6c97a73fcec,2023-07-31,Central India,Jaipur,Home Appliances,Individual,25893.55,,17,
+655f7c6d-e91a-43b6-858d-4dbceca0f5ea,2024-01-02,East India,Bangalore,Apparel,Individual,49151.44,3608.69,27,0.22
+c69c59cf-c775-4cc1-8608-862734894c99,2023-05-17,South India,Bangalore,Groceries,Retail,35894.88,17519.81,32,0.2
+20f75b3e-cf5c-4d3f-844d-2a9b0c2bacc5,2024-05-11,East India,Hyderabad,Electronics,Individual,2287.31,3048.6,3,0.01
+89dd77bb-292b-438a-84c8-006e38386ccd,2024-05-22,North India,Bangalore,Electronics,Corporate,1107.69,3401.29,20,0.21
+86925472-daa4-493d-88e9-339a5ce958b1,2024-02-19,East India,Bhubaneswar,Groceries,Retail,34056.8,2895.26,9,0.22
+bdb3c6b9-b49f-497a-97b4-b15612cef03e,2023-04-22,North India,Pune,Books,Individual,6596.67,-528.49,30,0.19
+cbf3535e-8363-46df-ac33-594c4d5b1c83,2024-07-14,East India,Raipur,Books,Individual,22367.34,,48,
+373555f4-b995-4a93-8bf1-5368bcbe38e2,2023-02-06,East India,Jaipur,Apparel,Individual,30863.9,6053.61,27,0.1
+dfa3864d-03b8-445c-9080-d9b1242737b6,2024-04-03,West India,Ahmedabad,Apparel,Retail,20349.93,10931.33,18,0.04
+c03e6487-74d1-4f21-9008-78108d52a921,2024-03-13,South India,Pune,Home Appliances,Individual,43401.15,17836.04,22,0.27
+e9f2da37-d0f2-486c-9ee8-6d3f48ef734f,2024-01-28,West India,Patna,Electronics,Corporate,39781.83,7347.57,4,0.07
+9ae772f7-156b-4051-b0ff-a493714f69df,2023-03-30,East India,Nagpur,Books,Corporate,2235.88,,6,
+07556ef5-10ee-4897-b6ca-c5c979f0a151,2023-06-14,Central India,Bhopal,Apparel,Corporate,47801.09,18212.83,41,0.25
+d01579b4-c0bb-4d74-accd-d9112346226c,2023-08-10,Central India,Delhi,Books,Individual,6756.33,17794.54,27,0.04
+885eb5be-0a2f-4c43-8329-6e5b6395d79c,2023-12-22,South India,Ahmedabad,Home Appliances,Retail,4316.85,-53.16,43,0.05
+4e34b860-bcea-42c6-8d26-4a68e484cf39,2024-05-19,South India,Indore,Apparel,Retail,41023.22,12439.5,2,0.03
+82642bd2-1f12-4ffc-afdf-69f4063a8740,2023-10-08,Central India,Chennai,Groceries,Retail,41206.59,19076.55,2,0.2
+72a0aac3-39d1-4577-a813-22afd150520d,2023-07-10,East India,Bangalore,Apparel,Individual,7519.26,8580.57,35,0.29
+649b6348-83a3-43b6-93da-b76934431dbd,2024-04-12,West India,Indore,Home Appliances,Retail,14645.08,,15,
+032d68f7-6563-4c0b-8656-becc540c59ab,2023-06-29,West India,Patna,Home Appliances,Retail,20529.73,908.12,20,0.13
+375b0137-9b73-4d77-a0b9-0a987d9f396f,2024-01-14,South India,Bhopal,Apparel,Individual,25785.11,15853.18,31,0.26
+c139c861-50a0-4d93-8e68-9fa11cf876cd,2024-07-02,Central India,Lucknow,Apparel,Individual,45559.87,1054.7,10,0.22
+4f720976-4824-43ca-9c74-e06c5be6ff01,2024-09-22,South India,Patna,Electronics,Corporate,26786.16,13880.42,49,0.22
+420110cf-8d8e-46b2-baec-a29cb4ac7e45,2023-05-29,North India,Kolkata,Electronics,Individual,2713.51,14826.38,6,0.3
+49479534-d2fe-4bdd-9ea3-2bd2b78723da,2023-11-04,West India,Nagpur,Home Appliances,Individual,8792.29,18802.05,43,0.27
+7deec5e5-3f04-46b8-b69d-dbb16e223eb1,2024-02-08,West India,Jaipur,Electronics,Corporate,49361.45,6261.6,26,0.3
+9148992c-575f-4b76-8001-d6eae9e5e835,2024-06-24,Central India,Mumbai,Books,Corporate,41405.77,-259.27,9,0.04
+c287039e-4c63-4090-af06-542ade06c72f,2024-07-02,West India,Bhubaneswar,Apparel,Individual,12079.74,17319.33,6,0.2
+e3eae2b6-bc1d-4a81-9737-521a28fed99f,2023-04-17,East India,Ahmedabad,Apparel,Retail,14007.33,13318.52,31,0.12
+c92aa556-1264-4d4c-b249-021f88a978fc,2023-02-28,East India,Raipur,Home Appliances,Retail,39462.64,,8,
+5fd82e25-1b77-407e-8eb3-9efa4734c10f,2023-08-30,East India,Bhopal,Books,Retail,27028.81,18702.52,2,0.07
+b13c35ba-6528-4166-9132-70925d0c7357,2023-11-03,Central India,Kochi,Groceries,Individual,48932.54,,5,
+703e9f1a-51ca-43bd-ba0f-65334b75693c,2024-03-15,North India,Jaipur,Home Appliances,Individual,32063.42,18714.8,45,0.14
+b6fd071f-2133-4c48-8e3b-5f81fff8e0ab,2025-01-16,South India,Indore,Electronics,Retail,42364.85,,15,
+dd87b311-df6b-4416-af29-67eb8c4a60ca,2023-05-15,East India,Guwahati,Home Appliances,Individual,16209.8,13876.31,28,0.16
+ab99fb62-50c3-4ea2-80b9-8efbd12a94bb,2024-01-28,Central India,Kochi,Books,Individual,47644.6,8303.87,42,0.29
+340d64a6-bc33-4aaf-8770-482337fc4834,2024-03-25,Central India,Mumbai,Home Appliances,Corporate,34613.22,4458.18,38,0.2
+0df2ab7f-459a-440d-893b-02d1bb2cdfee,2023-03-26,East India,Patna,Electronics,Corporate,22801.02,6502.89,34,0.17
+f07425f2-4949-4ce8-b08a-020c77b8ddd6,2024-12-31,West India,Pune,Electronics,Individual,21339.23,5190.97,50,0.16
+281c2844-4ad9-4902-a814-ac7d0d26e67c,2023-04-27,East India,Delhi,Electronics,Individual,25454.67,-300.08,43,0.02
+00acea9e-2e22-4f55-b67e-3fad0cb7aa2e,2024-03-27,Central India,Patna,Apparel,Corporate,7127.16,2329.61,43,0.07
+e0de1afb-b969-4d12-a321-351cfab3b6c8,2023-09-13,South India,Nagpur,Electronics,Retail,26886.39,38.71,44,0.03
+740c6737-0981-412d-a0a5-e3b57a9d55c3,2024-12-23,South India,Delhi,Home Appliances,Retail,13722.47,15516.95,18,0.06
+6251f115-6f25-4802-ab15-455ce8c55f93,2024-10-01,East India,Kolkata,Home Appliances,Individual,20879.41,14026.78,28,0.22
+697a57e7-f095-4528-adc7-56dfb4d92dbb,2024-03-05,West India,Kochi,Apparel,Individual,24260.68,6598.96,25,0.22
+6b50b456-b025-441d-9e35-e061cd80b23b,2023-05-23,West India,Kochi,Home Appliances,Individual,9831.73,13123.4,49,0.06
+7ca8662c-938a-477a-9a80-bbb333236a29,2024-09-10,East India,Indore,Groceries,Retail,11716.19,,47,
+c1a61668-6594-4cb1-acba-d73515a43ff6,2023-10-15,Central India,Hyderabad,Home Appliances,Retail,41360.19,6440.31,30,0.01
+bd409ce2-dc4f-4699-95ce-b95ef2ab249c,2023-06-08,South India,Bhopal,Electronics,Corporate,42627.75,6544.43,27,0.14
+b78b10d1-92e1-4d8b-9f3a-3dcb8f6b9b52,2023-12-13,West India,Mumbai,Books,Retail,28784.85,,32,
+7b5162af-b152-468b-8941-d5253836866d,2024-04-05,East India,Mumbai,Electronics,Retail,28596.7,547.97,13,0.24
+469643c6-4ed7-458c-8b23-8b9a85085700,2025-01-01,Central India,Surat,Home Appliances,Individual,49566.52,17651.03,18,0.22
+ac568e0b-83d1-44a4-96c0-497d6c69d893,2024-04-06,West India,Chandigarh,Electronics,Individual,3473.45,7177.84,39,0.15
+a3bded5c-0576-43ba-aa51-a09bd990b665,2023-06-10,Central India,Chennai,Groceries,Retail,13257.34,19015.34,19,0.06
+e60c83c7-7be7-44b9-be81-e013f59c0723,2024-11-20,North India,Chennai,Home Appliances,Individual,35910.6,7250.69,22,0.11
+125aceee-910d-4f86-9a83-6cd3710474a7,2023-11-11,West India,Jaipur,Groceries,Corporate,5272.18,1758.51,40,0.11
+c4aa55a0-ec85-46f4-8a5e-16b83c326d2f,2024-04-06,Central India,Kochi,Groceries,Corporate,38176.1,5528.94,41,0.02
+ba36d083-51a0-4af2-a7b9-f9232de502a1,2024-03-21,West India,Raipur,Apparel,Corporate,746.68,7852.4,37,0.16
+1c44c393-ffa7-4846-a199-52f0f22c8d81,2023-11-24,South India,Chandigarh,Groceries,Retail,27689.88,3513.53,19,0.12
+f564de24-b89d-4b40-9746-dd17ce4d3280,2023-08-26,Central India,Pune,Electronics,Individual,43222.42,8687.2,4,0.13
+b75aab5e-5942-4777-91b1-6fa2133fc0b2,2024-02-24,Central India,Lucknow,Groceries,Corporate,33603.88,8454.34,38,0.07
+8950cb19-2312-4bf4-8d7d-68f8e4892435,2025-01-17,Central India,Lucknow,Books,Individual,35143.45,10743.43,30,0.19
+01b2a910-82df-4a33-aa1e-e28d00411dac,2024-07-04,East India,Indore,Electronics,Retail,17698.24,894.97,6,0.22
+bec66ef4-31e5-4dec-b2ca-c4a74dda5f5a,2024-08-26,North India,Bhopal,Electronics,Retail,15807.38,3383.41,49,0.15
+7c8a1859-7eba-41ba-9980-6a423950e811,2023-07-17,Central India,Bangalore,Electronics,Corporate,5728.59,-309.58,3,0.18
+67fdba7f-4b05-4bb9-8ca8-691c22913b19,2024-08-17,East India,Kolkata,Books,Individual,20758.92,6680.99,37,0.24
+64a1894d-5bcd-45cc-8662-bae3efa18431,2024-03-24,East India,Nagpur,Electronics,Corporate,21689.93,2023.61,18,0.2
+179b1e8f-048b-4e64-b4ba-e925ca6657f2,2024-10-10,Central India,Hyderabad,Electronics,Corporate,49300.27,12224.23,16,0.19
+04c38d2a-0837-4aa0-957b-184517936e40,2024-12-08,South India,Hyderabad,Groceries,Corporate,49053.12,19871.05,36,0.12
+3a10f36f-d956-429d-9521-d8f0ce325131,2024-10-07,South India,Bhopal,Groceries,Retail,18502.92,,34,
+b0168914-0b4e-4c18-a25a-8da248c01bc2,2024-09-28,South India,Chennai,Books,Corporate,49043.46,11403.56,3,0.0
+1f00c77f-17b1-4348-84e3-27e9d1625c07,2024-03-31,South India,Bangalore,Groceries,Corporate,4576.17,-452.35,22,0.28
+d3545449-7e70-4195-88d4-d085e3774f57,2023-12-14,South India,Guwahati,Electronics,Corporate,44493.22,,32,
+07199543-3def-4006-bf1e-3413eea92525,2023-12-25,East India,Bhubaneswar,Electronics,Retail,30729.05,,42,
+e7db6226-56ef-44fd-9bd9-c91537b2ac01,2024-10-02,Central India,Chennai,Electronics,Corporate,37010.78,4370.55,36,0.12
+e44997b6-c5b6-4809-9c12-048d0465a97c,2023-10-28,South India,Raipur,Groceries,Retail,41865.7,,16,
+dd25f963-9b72-47fd-9d57-cde2ef99f0b5,2024-02-05,East India,Indore,Electronics,Individual,17674.0,16709.22,46,0.19
+c4233c48-dd1c-4a7b-a86b-c193ab48d9a8,2024-03-12,West India,Bhopal,Groceries,Corporate,35956.7,11727.97,38,0.01
+ff7bac75-d802-4edf-8255-5998bd88d7f0,2023-11-04,North India,Pune,Home Appliances,Individual,35742.7,11296.21,31,0.21
+e6ce0bc3-b734-46cb-a416-b557d482eb54,2024-03-02,East India,Bhopal,Groceries,Corporate,21246.87,14700.9,2,0.15
+2d6a21bb-c905-42b7-ae2f-207071c83425,2024-03-16,Central India,Jaipur,Books,Individual,36896.92,4962.81,42,0.28
+d5c6adad-fff4-4e52-bf8f-6beb1599a3a0,2024-07-15,Central India,Indore,Books,Corporate,22814.09,5710.38,15,0.16
+49265cbd-7cb6-4852-9d9a-cd2e6a3582e6,2023-04-25,North India,Indore,Home Appliances,Individual,33262.82,11207.58,26,0.05
+09faa50e-2b01-4a34-a50f-5985f80ac8f6,2025-01-08,North India,Pune,Books,Retail,10293.92,10116.78,17,0.3
+59270977-adc0-4c03-b486-b09951e0459d,2024-11-25,East India,Guwahati,Groceries,Individual,12607.93,5326.82,23,0.07
+053ff665-0806-47d5-b8fc-b32af3a92981,2023-12-08,North India,Nagpur,Apparel,Retail,1832.7,,13,
+2c55315b-d1f6-460e-ac8e-b4f76b20308c,2023-04-13,East India,Raipur,Apparel,Retail,10505.86,4092.1,27,0.02
+1f1643e3-8910-4325-be57-94f09f1d6ab1,2023-05-12,East India,Delhi,Books,Corporate,34909.92,1814.9,47,0.08
+f0d65fa4-9f32-4487-b2f3-5f3a04b7bf55,2023-08-28,West India,Chennai,Books,Corporate,39282.11,16892.45,13,0.28
+ec6d6406-ba32-424e-91fd-fff6507e7b28,2023-06-23,East India,Lucknow,Apparel,Individual,33020.41,17872.34,10,0.13
+775d2f93-f7e8-4aff-9403-1655476c7289,2023-04-06,South India,Mumbai,Home Appliances,Retail,21701.54,12726.07,2,0.25
+532f24bb-8bcc-4e8e-bba8-17ea3b48aa47,2023-05-11,East India,Surat,Groceries,Individual,3716.77,12945.05,10,0.01
+995e685e-669e-404d-be5c-961249929d1f,2024-12-21,Central India,Nagpur,Books,Retail,14515.04,,20,
+8dbcfdcb-5c82-43be-babc-ec733e32387d,2023-03-24,Central India,Lucknow,Groceries,Individual,3658.78,8071.21,48,0.02
+115d0e0d-6555-4592-8024-44e35e34fdb2,2024-04-26,South India,Kolkata,Books,Individual,48056.64,,44,
+fdc06e6c-c1f5-4079-9b58-384cd0eb458d,2023-05-27,South India,Hyderabad,Apparel,Corporate,1310.61,10628.36,27,0.29
+f46c4771-b78c-432f-bd31-a3f66ce17cc7,2023-06-29,South India,Kolkata,Apparel,Individual,19344.53,12739.43,16,0.06
+371ede05-6494-4ff6-ab71-b9a0cb42d2f3,2024-12-13,South India,Indore,Electronics,Corporate,28081.61,8589.71,32,0.09
+cc0a9d2f-9d34-427b-b8b7-bbf257fceb11,2023-07-04,North India,Nagpur,Apparel,Corporate,36521.2,17909.69,16,0.18
+6255333a-abec-412d-b972-a4ee28590242,2023-07-19,East India,Kochi,Groceries,Corporate,28324.19,8212.02,17,0.25
+6965dc06-d4a3-42a9-8012-7e2b3a554eb6,2023-03-24,South India,Jaipur,Groceries,Individual,42990.98,,13,
+516bde9f-87f6-4b22-9c74-49327b648880,2023-02-03,West India,Mumbai,Electronics,Individual,23768.06,16704.79,32,0.08
+852daf73-8336-45e7-b04c-ff653d14e583,2024-12-11,East India,Kochi,Electronics,Retail,6055.81,1733.13,29,0.29
+db55753c-cbab-453d-9fbd-9d71a89524e1,2024-10-29,West India,Mumbai,Home Appliances,Retail,25429.12,16235.33,1,0.06
+c8f188de-de84-4122-9bda-71ea176cba2a,2023-12-01,West India,Bhopal,Apparel,Retail,21670.83,16364.54,42,0.24
+79b0c2d4-9718-4e21-801a-0a731e3bb1b7,2024-01-09,North India,Ahmedabad,Books,Corporate,41531.72,,14,
+9651f85d-2411-46c7-a8a9-36d77c9e9c8c,2023-11-05,Central India,Lucknow,Books,Corporate,2416.13,8687.54,4,0.21
+b8ff4b8e-a863-4f0b-b0dc-581928123726,2023-11-27,North India,Bangalore,Groceries,Retail,34022.95,16830.63,9,0.23
+4b69854f-0a12-4ae9-8dec-582ecea8fe97,2023-11-20,South India,Lucknow,Home Appliances,Individual,29241.92,6403.12,40,0.24
+a2614156-9549-4d2c-a9b4-20d9b4d5a41f,2024-11-12,Central India,Mumbai,Electronics,Retail,30826.84,9097.79,20,0.05
+4893c486-3eae-4f47-8d94-d78492061e39,2024-09-05,West India,Delhi,Electronics,Retail,19916.61,6454.16,50,0.16
+d2809f2b-ab8d-4795-8403-07ca4c0ed16e,2024-06-08,West India,Pune,Home Appliances,Corporate,20820.34,10156.45,8,0.21
+528e7310-b699-4cdb-9349-cd3c428db4bd,2024-10-28,Central India,Nagpur,Electronics,Individual,15417.76,11434.52,21,0.19
+899ebed5-c814-486e-b6fc-61c413d4c62d,2023-02-17,West India,Delhi,Apparel,Corporate,38814.28,5002.64,11,0.14
+bd17b9e5-30fb-4ca5-9c67-7e309819e994,2023-12-27,West India,Kochi,Groceries,Retail,46973.93,4915.37,45,0.03
+3255bd32-d2a1-4f7d-97b3-c72a841d73aa,2024-10-25,East India,Hyderabad,Home Appliances,Corporate,25723.27,-79.87,24,0.26
+b133459e-a815-4d66-80d8-d28c5142c585,2023-02-05,North India,Kochi,Books,Individual,5491.82,11557.31,48,0.15
+7815f428-b45c-411d-a064-08abb7dc4232,2023-12-29,North India,Bangalore,Electronics,Corporate,20038.06,-691.09,8,0.16
+3307d297-fba4-4bd7-ade2-2fd517c05bdd,2023-05-01,North India,Kolkata,Apparel,Individual,28266.69,8531.74,4,0.29
+a864d715-6e7b-415b-baee-57fef10204ac,2023-12-03,Central India,Jaipur,Home Appliances,Retail,16521.43,12004.79,21,0.02
+049158ae-eb34-4fa8-8e69-f78d6e361d53,2024-04-08,South India,Indore,Apparel,Retail,13154.36,,33,
+769585d8-3d7a-4bbf-adba-f6b5779caf83,2024-02-03,North India,Indore,Home Appliances,Individual,16470.23,11492.66,27,0.27
+1cc37dee-33a8-4a76-a6c9-dd8beaa4ea37,2024-02-20,West India,Mumbai,Books,Corporate,8326.06,16302.02,19,0.1
+a7b0ac1b-c1db-4aba-85d8-0ae9effb4d47,2024-11-01,Central India,Surat,Electronics,Corporate,5859.54,3432.93,44,0.25
+811d9a51-9a1c-4bbd-b9b2-8dd0909d9b43,2023-07-17,South India,Indore,Electronics,Individual,49692.89,16478.7,17,0.07
+e0fd7141-f92e-4079-803f-80b5388a7263,2024-11-12,Central India,Kochi,Electronics,Corporate,27938.11,409.19,23,0.18
+a206a751-3beb-4cad-840c-1f0ccf96f3fe,2023-02-11,East India,Chennai,Apparel,Corporate,18839.91,901.94,19,0.26
+df1f870b-dc5b-4686-b6a9-c2bb964604ab,2023-09-26,North India,Guwahati,Books,Retail,4719.42,317.53,49,0.28
+27fec3f4-4bb1-41c3-b3c3-5cf8ac319c86,2024-01-07,West India,Chandigarh,Groceries,Retail,39857.05,18001.74,7,0.2
+1390cc3a-f0ab-41e7-a58d-35518e59223f,2024-03-10,South India,Mumbai,Home Appliances,Corporate,27349.9,4036.49,4,0.15
+30c4a003-f95c-4a19-b3c0-f88670f35f15,2024-11-05,South India,Jaipur,Books,Individual,39601.01,6799.5,44,0.06
+b273d09a-12ec-4a4f-89de-1127b73abb13,2024-12-09,Central India,Surat,Apparel,Retail,46062.74,,26,
+f0e3dda3-dacd-4a30-9cb8-89bcc9007d99,2023-06-14,East India,Hyderabad,Books,Retail,32602.75,9497.25,4,0.07
+b6f8f3bf-3eb2-4255-acb6-b165b5039789,2024-01-31,West India,Bangalore,Apparel,Retail,14312.4,17828.35,29,0.27
+2a677e8c-95d2-4232-911d-ab11c5b48209,2024-07-05,East India,Bhopal,Groceries,Retail,27905.82,13502.53,8,0.2
+bc143f39-a44a-4495-b12f-809135ad6fb4,2023-11-21,West India,Delhi,Books,Retail,20589.31,10813.36,9,0.12
+e38bc366-3b8c-48a2-a8ef-b88f2952b6fc,2024-04-24,East India,Bhopal,Groceries,Individual,40786.01,6955.09,37,0.02
+b63ba6fe-661d-4d26-ba60-a236f8478363,2024-01-11,West India,Bangalore,Books,Corporate,44849.87,1877.58,37,0.19
+8fcb0026-128d-4ee7-9416-6ee5678384f1,2024-09-22,Central India,Bangalore,Electronics,Individual,2804.13,2003.51,9,0.25
+5ba7e6b0-0fcb-4b66-b009-2e59b5907ec5,2024-07-13,West India,Lucknow,Apparel,Corporate,33902.44,7611.05,38,0.29
+7eee852a-dc35-48b3-b5f4-bd3583240ca1,2024-06-08,West India,Pune,Apparel,Retail,44322.26,11121.57,8,0.2
+3410b580-87fe-4087-82a9-a426d1347b80,2025-01-24,Central India,Raipur,Home Appliances,Individual,6650.39,2835.26,8,0.03
+5ecf9d23-4836-4bea-a86a-0a68d203d4d7,2023-08-10,South India,Mumbai,Books,Individual,31785.23,7708.92,3,0.15
+e45b0337-8e7a-4c12-ae18-a2dc93da204b,2024-07-19,Central India,Indore,Books,Individual,7339.88,9661.26,12,0.2
+3935ca68-625e-423c-a6b9-745634b132d1,2024-10-21,North India,Lucknow,Electronics,Individual,45101.39,6575.78,48,0.04
+4e8fc8a2-031c-46a5-bbc5-b45c277e7de0,2023-06-08,West India,Bangalore,Books,Corporate,29571.16,8948.06,31,0.01
+bddafd1a-46cd-45ee-aad7-6776a147b07f,2023-05-04,East India,Kolkata,Groceries,Corporate,27782.15,13998.75,1,0.11
+96027f5a-4969-4629-af44-1a91bd844884,2023-11-25,Central India,Jaipur,Home Appliances,Retail,1406.4,5758.3,18,0.03
+345d523f-a434-4449-84e2-f0da8140f785,2024-05-19,Central India,Chennai,Electronics,Individual,28117.87,12957.21,33,0.08
+e434c420-6b28-4c16-8a6c-cad146252035,2024-09-21,East India,Jaipur,Apparel,Retail,28939.88,6389.78,50,0.22
+a3002214-b0e5-429f-a62c-cfb9c58d46be,2023-06-20,Central India,Chennai,Groceries,Corporate,26361.34,13544.61,28,0.27
+4495d4ff-e9ed-4d2e-95cb-ce14f8e983ba,2024-10-07,West India,Raipur,Home Appliances,Corporate,49170.07,18534.82,31,0.29
+672b2c76-e063-474e-b52e-17d9c227b547,2024-09-03,Central India,Lucknow,Apparel,Individual,23749.37,15328.52,23,0.12
+07572a73-2053-4646-8e17-93c259d2111f,2024-07-09,Central India,Mumbai,Groceries,Retail,5009.16,573.43,25,0.2
+d4e6f3a6-9bed-4855-a6d3-e79cefb3562d,2024-05-20,South India,Lucknow,Apparel,Retail,42911.0,,44,
+974b7a67-5020-461c-817e-c727ac90dfab,2024-03-04,East India,Pune,Home Appliances,Individual,16578.42,18427.84,4,0.19
+0765ade7-80b1-40d7-b8cf-9d1d085cee43,2024-08-16,South India,Surat,Books,Individual,49967.03,18789.66,2,0.15
+3525c87e-25ae-4649-8c16-770a731f487a,2023-06-21,South India,Nagpur,Apparel,Retail,6244.51,19798.34,31,0.14
+6370d3bb-e2d0-4b30-85c5-699369ff4cdd,2024-02-14,West India,Bangalore,Groceries,Individual,27000.5,7205.0,33,0.17
+7493f4e5-bdea-4aa4-a639-e04475ba7eff,2023-10-03,North India,Bhopal,Groceries,Individual,38210.48,655.04,17,0.24
+bc0d3ebd-4666-4852-88fe-87227df96530,2024-09-11,South India,Indore,Home Appliances,Corporate,19789.38,2951.6,18,0.16
+913140df-4f28-4dcb-b4c1-71940a442310,2023-08-08,East India,Kochi,Electronics,Individual,39500.47,5659.79,31,0.09
+da60ef95-22a1-4c41-9e60-6ebcc0938371,2024-01-30,South India,Delhi,Books,Individual,41398.86,5275.95,46,0.16
+1b797c2a-5acd-4b26-9739-60bffb7ce7e8,2024-07-29,West India,Indore,Electronics,Individual,21122.89,,49,
+6b217ac6-2ba7-4eca-8b74-245e6b1da128,2023-02-04,South India,Kochi,Home Appliances,Individual,42470.76,19214.15,8,0.02
+0da0b2b1-d149-4cca-bc5f-8b302429bd9f,2023-03-25,Central India,Lucknow,Groceries,Corporate,47985.5,3289.99,44,0.01
+1600e4fe-1378-4df5-a0be-8a7935f313ca,2024-03-25,Central India,Indore,Apparel,Corporate,41200.09,7499.88,29,0.21
+b6520c66-b5ae-4527-9df3-cdd500efd4c5,2024-07-26,Central India,Bhubaneswar,Home Appliances,Corporate,35630.99,2264.0,27,0.06
+9a899aa2-bb38-4ad5-82e6-1fd0c117b33b,2024-03-20,Central India,Chennai,Home Appliances,Corporate,8801.17,18644.03,5,0.27
+5b304fe8-242d-4169-98ad-d032f0c8c104,2023-05-14,Central India,Surat,Books,Corporate,24021.08,2944.95,37,0.13
+766fad05-15a6-4f06-8a81-0faf4cc1290a,2024-07-16,South India,Ahmedabad,Home Appliances,Individual,36171.09,3058.21,13,0.04
+664eec90-1799-4ab9-a896-bc09ce761e64,2023-06-12,South India,Kolkata,Apparel,Corporate,36236.42,17420.69,18,0.15
+feeee902-74a2-4ca3-a739-8f4e2d9c5060,2024-07-06,East India,Indore,Electronics,Individual,36857.7,10392.45,1,0.14
+56cb2e28-338c-438d-b538-7225b0a4874f,2024-08-01,East India,Guwahati,Electronics,Individual,25142.65,2063.87,38,0.28
+b8e47e40-e214-4356-8078-e03bd6dbd442,2023-06-13,South India,Raipur,Groceries,Retail,35096.01,3949.9,1,0.18
+c14d9bbb-d319-46c7-add1-e02361e0c270,2024-08-01,North India,Bhubaneswar,Apparel,Retail,25891.24,14509.43,14,0.18
+eea98c04-3e6b-4ca6-8520-c698e45821c1,2024-07-22,South India,Indore,Groceries,Corporate,4990.97,,34,
+91764b8c-fa66-42c4-93ad-84dae3bc7b6c,2023-04-11,West India,Kolkata,Groceries,Individual,40851.38,8265.24,34,0.23
+0ea3a301-af41-4331-aa00-86400ea4c18a,2024-01-05,East India,Bangalore,Books,Corporate,867.01,,29,
+35e6d01d-ce0d-4df3-9cdb-9702195378f7,2024-11-23,East India,Patna,Electronics,Corporate,18063.97,8386.87,27,0.29
+b48739d0-3ca2-402d-9e4e-1a6e5ad85add,2023-06-17,East India,Pune,Electronics,Individual,14612.27,15577.51,11,0.21
+3cd65e1b-16b2-423c-ae80-0666df8952d5,2024-07-01,South India,Nagpur,Groceries,Retail,23039.49,7325.48,19,0.12
+d2cb7037-d83e-4c4e-902b-5d28d9e0887e,2024-03-02,North India,Indore,Groceries,Corporate,26473.99,15634.81,41,0.28
+71b13c86-d30f-4a05-b842-9d836eeaafc9,2023-02-17,South India,Hyderabad,Home Appliances,Individual,24695.59,11699.71,28,0.04
+270a26a3-2659-457c-859b-9efcb2cf2589,2024-01-18,South India,Bangalore,Apparel,Corporate,35295.84,9832.86,34,0.15
+9814aa04-e0ce-4cb6-a684-f324c2ccfebd,2023-07-04,North India,Chennai,Books,Retail,2556.76,7218.63,33,0.04
+036074fb-9b1a-4631-8667-6a8cb9a45c39,2023-03-20,East India,Nagpur,Home Appliances,Corporate,9102.58,19462.33,13,0.27
+26ba7ac3-6ee2-4379-b974-b24c0c2b2dda,2024-07-09,South India,Bangalore,Apparel,Retail,35423.03,-932.91,29,0.08
+e744b9ab-5146-49d4-b36f-2541d877c495,2023-12-28,East India,Raipur,Home Appliances,Retail,44045.59,-295.38,40,0.19
+4a82fd85-dd38-4ecc-80fd-e7be616e010e,2024-12-22,West India,Jaipur,Books,Retail,7099.6,1164.01,48,0.14
+7fa5e0b5-d59f-455e-bc9e-4a38ae203f90,2023-06-30,East India,Kolkata,Books,Retail,8691.95,7815.32,23,0.25
+eebcfe1c-e535-41d3-84fa-42f8bad18681,2024-03-30,West India,Chennai,Groceries,Corporate,7585.24,19528.03,6,0.24
+f172446f-f0b6-44ca-90a3-13bee8e8e7df,2023-05-06,Central India,Indore,Books,Individual,45259.65,10575.6,46,0.24
+50a7c547-821f-4a8b-802e-4176799f395c,2024-05-11,West India,Ahmedabad,Apparel,Corporate,5013.2,16836.58,27,0.28
+26225e0a-676a-479d-b458-2f23367162ec,2023-06-23,South India,Lucknow,Books,Corporate,17195.03,6359.4,25,0.26
+1f39e02e-260a-4efe-a669-0e4d043015d0,2023-10-13,North India,Nagpur,Home Appliances,Individual,2199.68,9469.11,8,0.25
+8f4907c1-2b79-47d4-9b47-c96b6a6dd010,2024-11-21,East India,Raipur,Groceries,Corporate,32585.23,10335.04,22,0.05
+6af67c8b-4c38-49f9-9b26-159ad1536ff6,2023-11-26,South India,Patna,Groceries,Individual,17891.82,,6,
+19093c44-6c9e-46f0-8080-14f7b9f41a3f,2023-12-23,Central India,Raipur,Home Appliances,Corporate,48635.49,17972.18,8,0.13
+f4006df2-d6fd-4baf-85e4-c1bb24491fa5,2023-10-09,Central India,Chennai,Books,Individual,40415.41,6743.8,7,0.15
+c792ef3d-a258-482b-8733-0b86d987b525,2024-07-07,West India,Chennai,Books,Corporate,46813.38,12145.82,1,0.07
+f857e11a-bf58-497b-9ec4-9959b5352f0a,2024-05-06,North India,Bhubaneswar,Home Appliances,Corporate,28562.41,14060.75,46,0.25
+8c6d76f3-331f-4f8c-9fe2-a91f7dfb879a,2023-02-04,North India,Bhubaneswar,Groceries,Corporate,39520.76,1987.85,26,0.18
+bf811cd7-6a06-4ee4-b5ad-fb95cc6c3c15,2024-05-12,North India,Delhi,Groceries,Retail,4615.22,8172.14,2,0.04
+74f0e3e4-e6fe-463c-978e-b9d52287a3fe,2023-06-03,West India,Hyderabad,Electronics,Individual,20113.19,-836.62,37,0.02
+2e03b345-c246-4de0-a8a5-227d4ee4fe19,2024-05-31,North India,Guwahati,Electronics,Individual,21401.09,11181.3,25,0.28
+535948aa-254d-43ca-b14e-3a20cae14408,2023-05-02,Central India,Pune,Home Appliances,Corporate,13634.41,343.49,25,0.25
+435ad99b-2714-47a9-8f3a-423498ccad61,2023-09-16,East India,Ahmedabad,Groceries,Corporate,13593.63,148.74,4,0.07
+544025d7-56c4-422d-8a9e-ae936c90cf64,2025-01-09,East India,Chandigarh,Groceries,Corporate,31713.4,9294.03,27,0.0
+5988c862-15a9-4ecf-9586-8fcd60e21b24,2024-10-16,West India,Bhopal,Electronics,Retail,506.81,6833.95,22,0.0
+15526566-cee5-4174-832a-d3b8ce9ecdb0,2023-11-28,East India,Kochi,Apparel,Retail,2405.31,2848.23,49,0.04
+d2d60ca2-9775-4a7e-9bdf-29b214546ac4,2023-11-02,West India,Delhi,Home Appliances,Individual,798.68,11467.85,10,0.04
+8b0feb32-0469-4923-a0f2-94cbde80f30f,2023-11-20,Central India,Lucknow,Home Appliances,Individual,38655.89,9442.04,33,0.26
+e6697522-ff12-4834-b817-253322027288,2024-04-16,East India,Kolkata,Home Appliances,Individual,4461.36,5067.92,3,0.2
+bf8d9d08-aa47-4d67-a494-fc109bb5da29,2024-02-25,East India,Kolkata,Groceries,Retail,35612.29,1803.11,22,0.12
+dc175ea3-b9e7-49e0-bb60-5b66223ae8c6,2023-10-07,Central India,Kolkata,Apparel,Retail,42009.47,-997.48,28,0.14
+28e29b3d-a8a6-40ac-a392-1469ec8a1e8f,2023-11-06,South India,Bhopal,Apparel,Corporate,7241.44,2971.79,2,0.01
+d6cc22a5-a619-4897-b543-c103d4335402,2023-02-17,East India,Chandigarh,Books,Retail,5137.04,15014.84,41,0.23
+22ed94f8-0bd0-4a90-ac53-dc1e4cabfe42,2023-03-24,West India,Mumbai,Electronics,Individual,45554.59,10474.53,50,0.18
+a7fdb2aa-2c82-43cf-a1e9-1450fc3df228,2024-02-11,Central India,Lucknow,Groceries,Corporate,18445.09,14581.62,40,0.09
+01706f2d-b077-4cdd-90a8-e6fcd83480a4,2024-02-04,Central India,Nagpur,Home Appliances,Individual,8252.18,15022.71,40,0.11
+d968dc2a-b7cf-4c3d-9b9c-a73106e0d2e9,2024-12-11,West India,Mumbai,Home Appliances,Individual,13555.0,,31,
+b6087941-0d56-46b7-80d2-dcf315074d52,2023-10-02,Central India,Delhi,Apparel,Retail,3715.97,19407.45,16,0.27
+e085300d-735f-485d-9e51-55d51794203f,2024-10-21,Central India,Patna,Groceries,Corporate,4176.41,16628.5,44,0.27
+6bb3a58c-a2dd-4bc8-80b9-803df90fc3ee,2024-08-20,East India,Patna,Groceries,Corporate,23288.15,,33,
+074951d4-1944-492d-893b-6c310c70a6a9,2023-02-13,North India,Mumbai,Books,Retail,10775.28,8497.03,44,0.01
+9828c896-d218-4e23-b050-0bd3afb22f26,2023-04-28,South India,Raipur,Books,Corporate,46549.32,18693.6,20,0.27
+012df6f7-7cba-422f-a0c0-054492c373de,2023-11-29,Central India,Bangalore,Groceries,Individual,43521.93,5907.62,18,0.1
+70341cc4-15c9-453f-8424-945b3bf8ed8a,2024-04-30,Central India,Chennai,Electronics,Corporate,41212.54,13659.64,40,0.03
+5cf4b5ed-6d63-46e3-ad7d-6d638a09cce8,2024-05-17,East India,Jaipur,Books,Retail,21456.54,8616.67,23,0.14
+b84df7dc-a017-4f3e-8bb5-f1e92b86d2bb,2024-08-18,East India,Raipur,Home Appliances,Corporate,29090.59,10232.98,29,0.17
+af4a60b3-394c-4531-88e3-61109dd18ed5,2024-08-20,West India,Nagpur,Home Appliances,Corporate,3409.81,,24,
+ae1fc324-8232-41b8-aa30-f85df3a51f25,2024-03-22,Central India,Hyderabad,Electronics,Corporate,39880.7,,43,
+b23e37c5-1bad-42ac-9745-b03acd875935,2024-01-20,Central India,Lucknow,Electronics,Individual,27046.06,3994.6,14,0.05
+01cd6523-779c-466a-a40f-69b8ad13bbfa,2023-06-18,South India,Mumbai,Electronics,Individual,28939.1,12817.05,48,0.09
+0a77889c-d2d7-446d-a207-f12aec7a303e,2023-07-06,South India,Delhi,Books,Individual,7281.14,18941.14,27,0.03
+b8d255f5-a2f1-48e8-8d45-1593c6bdadef,2023-03-23,South India,Chandigarh,Groceries,Corporate,39779.14,13188.57,11,0.16
+23e99938-2d6c-438d-97ae-86b0f1198bbf,2023-12-15,Central India,Delhi,Home Appliances,Corporate,33983.36,-918.39,6,0.18
+9fff0aca-d0ea-4f6e-ba8b-c2042668ac31,2023-07-24,Central India,Jaipur,Home Appliances,Retail,26918.25,10389.04,21,0.24
+40b400a5-5e0d-49f7-bb04-1cb3f5da38fe,2023-06-19,South India,Nagpur,Apparel,Corporate,13373.94,18886.41,33,0.16
+5adc38b1-0472-46a0-b99b-9fd9fb97a7aa,2024-07-30,North India,Surat,Apparel,Corporate,8996.18,-169.55,36,0.17
+0cc81c57-5b6d-4aaf-ad50-2d1db34d45ca,2023-12-17,West India,Lucknow,Apparel,Corporate,4721.99,2101.96,23,0.25
+f2e2609a-597d-46f9-95e1-ec048e5cf3f8,2024-03-27,South India,Indore,Apparel,Corporate,21873.98,9513.81,8,0.27
+f7490577-1f32-487c-9f05-1a8fdb680c74,2023-03-03,South India,Chennai,Groceries,Corporate,13464.45,17042.52,29,0.03
+e010459e-5ff2-4450-b034-b8e01ae442eb,2024-12-29,South India,Kochi,Home Appliances,Individual,17813.45,-712.96,24,0.01
+1d13ae71-4ce2-4cc5-87bd-228b2c8b873c,2024-10-28,South India,Jaipur,Groceries,Retail,39812.3,9938.72,50,0.04
+c51ea71c-deb2-45e2-9cf5-ac7dbefee99d,2023-09-21,West India,Delhi,Groceries,Individual,11946.43,2223.56,24,0.02
+f2eeaff3-53be-4f8b-b5d1-837ad4d7d1e3,2023-02-16,South India,Raipur,Apparel,Individual,48717.28,19746.46,49,0.02
+415d8a0a-5b0e-417d-bd90-438ff7d743b1,2024-09-30,South India,Nagpur,Books,Retail,17203.07,13338.85,24,0.01
+4bea6d1e-f1af-420a-b9bd-bc0e3367ba68,2023-04-17,North India,Pune,Apparel,Corporate,17401.24,16775.83,21,0.25
+d866793b-414f-4090-b2de-f9189ecb8173,2023-03-26,South India,Nagpur,Groceries,Individual,48006.14,16259.35,9,0.27
+f9aa11c0-4348-4f97-aa26-d885af1dff76,2023-10-03,East India,Bangalore,Groceries,Corporate,46937.18,4902.37,39,0.09
+452c8311-2255-4ac0-aed7-9aaf42a7d5a3,2024-10-25,North India,Guwahati,Electronics,Retail,15182.92,2499.81,2,0.09
+d371fcc0-0391-48df-984f-44b0ed4dbd1e,2024-03-31,East India,Patna,Home Appliances,Corporate,21394.75,12794.92,46,0.09
+74dfb85f-8440-4970-b5d7-909995b0b110,2023-06-04,East India,Surat,Groceries,Corporate,30888.41,4858.64,18,0.07
+be23b1ee-4340-46c1-bfb8-b71ba778b199,2024-11-29,South India,Kochi,Books,Individual,18721.04,11802.36,41,0.21
+fc01c328-8ad7-44a8-8424-8c991526f35c,2024-01-05,West India,Chandigarh,Groceries,Corporate,21662.72,1136.13,45,0.21
+6bf45c59-f4b4-47d6-b07c-240ddeddfe63,2024-08-22,North India,Delhi,Apparel,Retail,44161.39,,4,
+318222e6-8778-4084-8c1b-0fbe3b00695a,2025-01-24,North India,Ahmedabad,Home Appliances,Individual,40929.94,17057.17,5,0.07
+e3d43443-a160-414d-ae0f-fee3836b56f2,2024-07-10,Central India,Guwahati,Books,Retail,30850.77,,47,
+5eb19ee6-243c-4a80-9e2c-386f2d4a666b,2024-09-28,North India,Delhi,Books,Retail,3537.31,4103.76,35,0.01
+8063c4ad-ca26-4e0d-babe-9856ba1492c9,2025-01-03,South India,Delhi,Books,Individual,19844.95,10991.57,31,0.03
+09bdf787-5f39-41af-9bbb-99f75a4948b1,2024-09-01,South India,Bangalore,Apparel,Individual,29932.45,14564.16,6,0.23
+4db793e1-8e0d-442e-8388-0c3291e6e4d4,2024-02-09,South India,Nagpur,Groceries,Retail,33191.39,627.58,6,0.27
+01985833-7a7c-4c11-b09e-ff3d1954da0c,2024-12-17,North India,Patna,Apparel,Individual,12785.51,8294.69,18,0.22
+365f3fd7-cf84-4308-8e07-fda2e473b572,2024-10-02,South India,Hyderabad,Books,Individual,9160.26,7106.98,28,0.04
+4aaf6183-c39e-487f-bac8-4128925cdc0b,2024-07-19,Central India,Raipur,Home Appliances,Corporate,49453.47,2832.41,33,0.02
+fd7f8701-7acf-4ecd-87d3-cd4bc44c8ccd,2023-07-16,East India,Lucknow,Electronics,Retail,864.42,19273.26,23,0.28
+4d6e8298-1065-4317-9793-daf036a742d2,2024-12-25,South India,Hyderabad,Apparel,Corporate,44883.16,19757.49,37,0.15
+8f48da93-9f1e-4cef-bb09-db0e4e5560d6,2023-10-03,North India,Guwahati,Apparel,Corporate,37836.34,4872.25,43,0.23
+1b825a32-57ed-4f5a-8004-563543313267,2024-01-11,North India,Bangalore,Home Appliances,Retail,46254.84,15111.13,50,0.08
+c8913a8f-3579-4bef-90bf-be3a5d13f7db,2024-02-15,North India,Chandigarh,Groceries,Individual,49817.48,16418.2,16,0.27
+455f5258-6368-4115-aa32-eb2d00481871,2023-02-06,North India,Surat,Apparel,Retail,3815.95,9242.14,22,0.27
+e5478b40-8bc3-4fa3-b1da-b07698d42e61,2023-02-12,West India,Delhi,Electronics,Corporate,22678.02,15476.25,28,0.19
+2499c138-292f-42bf-bf8e-91ed528c06af,2024-05-02,South India,Surat,Home Appliances,Corporate,24085.5,11207.66,28,0.29
+2b4c2452-1de4-44bc-b146-0817093055ed,2023-07-17,East India,Pune,Apparel,Corporate,36309.84,6562.34,7,0.03
+a4d3dfaf-87d7-46e5-948e-0377a8b8e9cf,2024-03-15,East India,Raipur,Apparel,Corporate,49819.04,,37,
+cd60788f-750d-434c-88c5-7d885234293f,2024-03-19,North India,Guwahati,Apparel,Individual,24198.74,18138.56,8,0.02
+05d92b30-3d79-4888-9b81-7c2909d475ff,2023-10-06,Central India,Chandigarh,Electronics,Corporate,4009.19,2421.6,16,0.21
+c36e46fa-1d9d-4c9f-9f97-cb286259a45e,2024-07-15,East India,Patna,Books,Corporate,37872.62,-588.28,2,0.08
+b4c0defd-94f3-40d2-b990-9dbaeb8a9934,2024-07-13,North India,Guwahati,Books,Individual,38736.26,10513.89,25,0.07
+87c815c3-b092-4a7b-b223-512720edb1bc,2023-04-24,Central India,Kolkata,Books,Corporate,39206.85,13435.26,27,0.25
+22c2852e-ecdc-48d9-986c-cd8cec6653a1,2024-08-08,East India,Bhopal,Books,Corporate,33245.71,14817.24,33,0.1
+c1140927-d9a9-44d9-86b9-37c3b4228107,2023-12-22,South India,Jaipur,Home Appliances,Individual,626.5,12300.87,46,0.15
+636be673-ebaf-4cdb-9c94-b73a84264130,2024-05-09,West India,Nagpur,Home Appliances,Corporate,47170.17,,37,
+51f833c0-73bb-4dc8-a9a8-e8c8863bdb0c,2023-04-05,North India,Bhopal,Home Appliances,Retail,9279.27,16190.34,47,0.16
+2f968d91-9cf0-4f75-b313-ff916a7fd651,2023-12-08,East India,Bangalore,Apparel,Retail,38957.47,931.39,38,0.14
+e9f8353a-ea8f-4cef-9be1-a6f024496af7,2023-11-05,North India,Hyderabad,Electronics,Individual,47622.34,13470.7,24,0.07
+85391aef-9678-4fbb-9848-e3f1d7e9351b,2024-10-24,East India,Bhubaneswar,Apparel,Retail,7614.73,1262.12,5,0.24
+4a74787b-0ede-411d-8d6a-559b895e78eb,2024-02-19,South India,Mumbai,Apparel,Corporate,2188.79,1974.07,31,0.12
+33b038fd-ae80-4fa0-810a-0b6f6333c245,2025-01-06,Central India,Pune,Apparel,Corporate,47682.92,18084.17,4,0.27
+0adeaa8a-ddca-473c-9062-20966d469907,2023-09-30,East India,Chandigarh,Apparel,Individual,36125.89,9094.92,4,0.21
+88783c67-d239-424d-bab6-d85c19ed138a,2023-12-01,North India,Nagpur,Electronics,Retail,24329.29,,21,
+276614e8-76f6-4a8d-96cf-57f7a0b9b472,2024-10-03,North India,Lucknow,Books,Retail,31157.49,19898.67,34,0.08
+1c98c31d-80b9-4506-82ae-e1161107e2ea,2024-07-03,West India,Mumbai,Apparel,Corporate,45666.52,10705.65,35,0.2
+49ddcc82-181f-4217-a40f-4654d54c9951,2024-04-27,North India,Kochi,Groceries,Retail,31751.77,3374.87,15,0.17
+04a93b8a-7d45-46d1-9970-52778949bd4d,2024-11-27,South India,Pune,Books,Individual,27292.44,14743.78,16,0.01
+f23e4534-9bcf-45b7-9b8e-b8aa1d41b0e0,2023-12-22,Central India,Lucknow,Electronics,Individual,29579.45,5635.97,38,0.25
+3a8b049a-99a6-4d0d-a71a-0dc8113eebf6,2023-06-29,East India,Delhi,Groceries,Retail,49725.01,9734.7,14,0.05
+4d803e39-e1c2-444b-965c-e6be1014381d,2023-11-04,East India,Patna,Apparel,Corporate,26558.37,2434.55,20,0.19
+459642e8-466d-4725-b1c7-26546477c6af,2024-05-22,Central India,Pune,Books,Individual,535.01,19443.64,19,0.26
+29cb43fb-b3fd-4ca5-913c-d452c6d5694e,2023-03-29,Central India,Kolkata,Apparel,Individual,6895.42,6764.53,43,0.13
+c30d9c53-f6d0-41fe-ab81-22736a24ffcc,2024-06-02,Central India,Nagpur,Books,Retail,19145.33,15676.46,11,0.0
+56fd1a8a-c2f1-4f0a-a05a-14a128c8349b,2023-12-17,West India,Delhi,Home Appliances,Individual,6937.31,7484.66,27,0.07
+546f4bc8-0fd2-4728-8d28-e2c52960bc27,2023-12-03,West India,Bhubaneswar,Apparel,Corporate,20582.2,8102.83,48,0.2
+779445fa-0a64-4f12-9320-d8515dd4073b,2023-02-11,West India,Kochi,Books,Retail,49520.18,7325.57,32,0.0
+b532e004-415d-4fd9-9d19-12bddfdfc20f,2023-06-19,South India,Mumbai,Home Appliances,Retail,3512.89,7446.14,46,0.1
+4c40a18f-aeff-47b9-929c-ca8effc04e6c,2024-01-23,Central India,Chennai,Home Appliances,Individual,36228.94,17333.27,10,0.09
+5596ab1a-0d1d-4e7a-8eb6-16c3c84fc1d6,2024-05-27,Central India,Bangalore,Groceries,Individual,38271.43,13489.55,36,0.18
+81b195c8-16eb-4efa-b9aa-7f96febaaa1e,2024-01-31,South India,Hyderabad,Apparel,Individual,12637.82,-581.12,39,0.06
+88a1cdd3-d148-4f88-b783-864523948d52,2024-12-25,Central India,Patna,Apparel,Retail,17097.73,11689.0,7,0.02
+a761d2b5-0acd-4541-b46d-6971cf435cc9,2024-10-24,East India,Delhi,Electronics,Individual,38299.48,8946.74,38,0.19
+2c145a0e-64f6-4cc4-9e7c-7d334da1d6c3,2024-05-26,West India,Lucknow,Home Appliances,Retail,15963.52,12756.33,47,0.14
+f9ca7477-2d61-4d62-8c55-1750e6715a82,2023-09-09,East India,Mumbai,Groceries,Retail,18253.48,2778.42,25,0.18
+e961284a-cbb8-4d70-a1e5-7240f86357b2,2023-03-07,East India,Surat,Apparel,Retail,9343.79,8444.15,12,0.21
+7dccc5fc-14c6-4a5e-a660-87adbd4da78e,2024-09-01,East India,Raipur,Apparel,Retail,1523.5,18261.06,21,0.29
+3bdfe607-b730-416c-bd89-6a52f8c5f49f,2024-10-16,Central India,Chennai,Electronics,Retail,4332.88,17400.44,6,0.05
+4477d4f2-985d-49d4-9482-51efebf04703,2024-08-10,West India,Bhubaneswar,Groceries,Individual,15871.04,7908.78,5,0.28
+b90fa472-35ef-4141-805e-06a73495ee4e,2023-03-29,Central India,Ahmedabad,Electronics,Corporate,47855.16,4940.08,20,0.07
+2db49abe-afb9-4b35-8460-dcf372b4a005,2023-02-20,East India,Bhubaneswar,Electronics,Individual,45801.48,14831.48,50,0.28
+15450602-617e-4954-bca9-5f1ff1cdf66b,2024-08-16,West India,Kochi,Books,Individual,10454.07,18183.13,38,0.08
+87eada06-7644-4968-b861-f9931148349b,2024-01-01,Central India,Mumbai,Groceries,Individual,45172.57,15792.64,2,0.15
+0eee2cd8-4822-4d77-80fd-a9cab9bdace7,2023-08-12,South India,Bhubaneswar,Books,Corporate,5481.8,908.51,9,0.19
+882203e9-757a-420f-a675-596ae6ab8b24,2023-08-01,West India,Bhubaneswar,Electronics,Individual,4772.77,,31,
+23bc748f-4786-42f6-8e88-4858eba56ceb,2024-10-03,South India,Nagpur,Apparel,Corporate,40402.29,18113.95,41,0.21
+367bef40-ef7a-4ac6-a6be-0f595576c84c,2023-06-02,South India,Hyderabad,Electronics,Retail,31647.39,9559.26,20,0.05
+85ac497c-7aaa-4a24-8a0e-955c9e1a050d,2024-02-24,South India,Patna,Apparel,Individual,42950.33,9667.62,29,0.12
+bb9e823b-8545-47c2-a06e-90d57eee2399,2023-04-08,East India,Hyderabad,Apparel,Individual,15032.4,,20,
+00e6c120-dde5-4d87-bcc8-8186afa4b7f5,2024-06-13,North India,Indore,Home Appliances,Retail,4996.52,10268.41,15,0.05
+013c85e1-ba53-419f-bf42-456142ec966f,2023-12-22,East India,Patna,Books,Individual,16054.14,13120.57,24,0.13
+24467619-f339-4aa3-b810-af37f9c7cb23,2024-08-23,North India,Pune,Groceries,Individual,38218.51,13406.12,41,0.12
+b07b6214-9fb2-474f-b204-087c789ed50b,2023-05-25,West India,Kolkata,Groceries,Corporate,7179.17,7713.61,46,0.17
+3e1ead67-1dd6-4eea-93db-8ee4c545dfb6,2024-06-01,Central India,Delhi,Apparel,Corporate,31925.41,2140.61,9,0.14
+3899af0c-dade-4384-9bcc-e7c420f32779,2023-03-18,South India,Indore,Books,Retail,36225.28,4430.38,8,0.09
+5887d63a-d1b1-47af-b19f-1e5840df19ee,2024-07-09,West India,Bhopal,Books,Corporate,32000.97,-395.55,7,0.25
+f9e8490e-f399-4112-a8ee-cb9c19d644ef,2023-09-15,West India,Chandigarh,Home Appliances,Retail,7486.89,11101.13,4,0.15
+809c89e3-c689-41bb-ac5f-1e2dfd179036,2024-06-12,South India,Jaipur,Electronics,Corporate,23237.55,7654.77,13,0.24
+1776e2d9-70ed-4ba8-9f89-808d13abc057,2023-12-06,East India,Chandigarh,Home Appliances,Corporate,49965.81,8746.72,4,0.22
+4be71cb8-4683-43da-8207-53be117360ab,2025-01-01,West India,Guwahati,Home Appliances,Individual,14196.61,14977.2,48,0.19
+de8b53b0-b3f5-4cdf-9388-b1eff01607d2,2023-02-13,Central India,Guwahati,Electronics,Individual,36651.46,17686.86,45,0.03
+66331f32-370b-4b50-ac58-c21972aa918a,2025-01-01,Central India,Pune,Groceries,Corporate,11794.94,-136.92,2,0.14
+cbf5e557-af53-433d-b2c6-fcca1d523600,2024-10-02,West India,Hyderabad,Groceries,Individual,14147.48,9728.27,21,0.04
+7dd470d3-5808-436d-a4fb-25a3548bea03,2024-12-15,North India,Chandigarh,Home Appliances,Individual,22759.8,13411.62,49,0.14
+b77be95b-18d7-4d4c-9fac-9c63a2fffdd9,2024-12-10,North India,Bangalore,Books,Retail,48847.96,5200.14,29,0.11
+2d6a21bb-c905-42b7-ae2f-207071c83425,2024-03-16,Central India,Jaipur,Books,Individual,36896.92,4962.81,42,0.28
+09faa50e-2b01-4a34-a50f-5985f80ac8f6,2025-01-08,North India,Pune,Books,Retail,10293.92,10116.78,17,0.3
+89dd77bb-292b-438a-84c8-006e38386ccd,2024-05-22,North India,Bangalore,Electronics,Corporate,1107.69,3401.29,20,0.21
+17825efb-409f-4186-aeed-a0f4ec4b60fe,2024-01-14,South India,Kolkata,Apparel,Retail,10998.48,12859.7,20,0.05
+c139c861-50a0-4d93-8e68-9fa11cf876cd,2024-07-02,Central India,Lucknow,Apparel,Individual,45559.87,1054.7,10,0.22
+f6d69164-d782-46ce-8b8c-aad6721f0de3,2023-06-06,North India,Chandigarh,Groceries,Corporate,4014.28,-790.48,29,0.09
+9c921802-9635-4e66-8beb-ad487b5175e7,2023-10-11,Central India,Bhubaneswar,Groceries,Retail,19676.89,,18,
+8c6d76f3-331f-4f8c-9fe2-a91f7dfb879a,2023-02-04,North India,Bhubaneswar,Groceries,Corporate,39520.76,1987.85,26,0.18
+6b15e3ce-827c-4386-9193-9766dda37fb6,2024-07-31,South India,Chennai,Apparel,Individual,17055.46,19060.93,14,0.21
+d4e6f3a6-9bed-4855-a6d3-e79cefb3562d,2024-05-20,South India,Lucknow,Apparel,Retail,42911.0,,44,
+7b430b72-0a23-478d-9fff-2ad34c5a0345,2025-01-06,West India,Indore,Books,Corporate,18419.98,10582.81,48,0.1
+392aba12-8748-4bcb-aac2-8f1405ee7866,2024-08-09,South India,Delhi,Books,Retail,38937.9,-281.82,23,0.24
+3bdfe607-b730-416c-bd89-6a52f8c5f49f,2024-10-16,Central India,Chennai,Electronics,Retail,4332.88,17400.44,6,0.05
+87c815c3-b092-4a7b-b223-512720edb1bc,2023-04-24,Central India,Kolkata,Books,Corporate,39206.85,13435.26,27,0.25
+f2e2609a-597d-46f9-95e1-ec048e5cf3f8,2024-03-27,South India,Indore,Apparel,Corporate,21873.98,9513.81,8,0.27
+58811884-d719-4129-bc5e-eec919560bbf,2024-06-08,Central India,Surat,Apparel,Corporate,35089.65,9882.91,12,0.27
+9828c896-d218-4e23-b050-0bd3afb22f26,2023-04-28,South India,Raipur,Books,Corporate,46549.32,18693.6,20,0.27
+c8f188de-de84-4122-9bda-71ea176cba2a,2023-12-01,West India,Bhopal,Apparel,Retail,21670.83,16364.54,42,0.24
+e49b9d2b-8d68-4176-9c05-a6ffe1e235b2,2023-09-04,West India,Raipur,Books,Retail,34375.0,9971.95,20,0.1
+68b6e7e7-8d9f-451e-b5e7-de45e1690b95,2023-11-04,East India,Bhubaneswar,Books,Retail,812.62,10057.19,1,0.0
+b3777f75-42c1-4579-a388-bfc6d2fb826d,2024-01-02,South India,Jaipur,Home Appliances,Retail,47746.0,17100.97,13,0.12
+555b672f-e362-4b6c-8071-bfb0f8e0f951,2023-03-31,East India,Raipur,Books,Corporate,38920.65,9029.95,11,0.16
+52630078-6e23-4081-ab89-4403511a1aa1,2023-06-24,East India,Bangalore,Groceries,Retail,10707.81,,50,
+9f37acd7-1be5-4b4d-ab48-90080079fdc4,2024-03-21,East India,Pune,Electronics,Retail,37079.91,1380.53,4,0.02
+23ec5446-ab75-4828-8d02-8496bd35cf2a,2024-12-15,East India,Guwahati,Apparel,Corporate,39456.1,,31,
+e361ac3e-ba95-4b56-9443-822a50d9928e,2023-06-03,North India,Raipur,Electronics,Corporate,28532.83,18509.42,34,0.22
+013c85e1-ba53-419f-bf42-456142ec966f,2023-12-22,East India,Patna,Books,Individual,16054.14,13120.57,24,0.13
+1d13ae71-4ce2-4cc5-87bd-228b2c8b873c,2024-10-28,South India,Jaipur,Groceries,Retail,39812.3,9938.72,50,0.04
+33b038fd-ae80-4fa0-810a-0b6f6333c245,2025-01-06,Central India,Pune,Apparel,Corporate,47682.92,18084.17,4,0.27
+50512d2c-346f-40bc-a9e0-4f67dce902b7,2023-02-03,East India,Pune,Home Appliances,Corporate,14974.55,2442.75,13,0.11
+36f0a732-c39e-4cb8-8464-658ed48d64a6,2023-08-29,North India,Guwahati,Books,Corporate,39985.06,8588.78,42,0.15
+29d06234-90c8-4ea4-9ad4-b33057aa3438,2023-07-04,West India,Kochi,Electronics,Corporate,20378.81,16916.4,10,0.22
+b64e2242-21c5-4710-9bc5-7d87e37793ac,2023-05-26,North India,Guwahati,Groceries,Individual,33964.81,1965.54,35,0.11
+892bb391-f88e-4989-8d5d-654daac9937d,2024-05-21,North India,Nagpur,Books,Individual,10773.39,13396.97,26,0.24
+b96153fe-bbd8-47cf-a8b5-9a0e1d5bef55,2024-09-10,East India,Bangalore,Apparel,Retail,3463.07,4545.14,43,0.25
+5fd82e25-1b77-407e-8eb3-9efa4734c10f,2023-08-30,East India,Bhopal,Books,Retail,27028.81,18702.52,2,0.07
+80a9513e-8336-4f82-aaef-4315bc28cde8,2023-09-26,North India,Patna,Apparel,Retail,38492.58,15437.89,11,0.11
+e010459e-5ff2-4450-b034-b8e01ae442eb,2024-12-29,South India,Kochi,Home Appliances,Individual,17813.45,-712.96,24,0.01
+69b0dd52-9f96-43f5-8707-bb86be40d84e,2024-02-06,West India,Delhi,Electronics,Corporate,18103.71,12184.91,40,0.1
+bcbcfe3c-cc0e-499e-8012-caa7fa37be73,2023-10-25,West India,Bhopal,Home Appliances,Individual,20714.82,9283.36,43,0.19
+154a0234-9ef7-40a3-8da1-5cd1add69541,2024-01-23,East India,Bhubaneswar,Home Appliances,Individual,24899.12,17675.71,10,0.28
+a2d8d5c4-9f2b-44ca-83a5-892eed02496d,2024-12-09,North India,Patna,Electronics,Retail,48723.23,18411.19,44,0.12
+4477d4f2-985d-49d4-9482-51efebf04703,2024-08-10,West India,Bhubaneswar,Groceries,Individual,15871.04,7908.78,5,0.28
+44cfaacd-591e-4ba3-baa9-30f5d76c73ff,2024-01-23,Central India,Surat,Groceries,Individual,5415.02,18292.04,8,0.19
+02e7e10c-386d-4472-a032-e96078af84bb,2024-06-06,East India,Hyderabad,Apparel,Retail,617.69,3958.86,41,0.11
+fd7f8701-7acf-4ecd-87d3-cd4bc44c8ccd,2023-07-16,East India,Lucknow,Electronics,Retail,864.42,19273.26,23,0.28
+6157e7c7-958c-4db8-8f9a-9613591f604e,2023-04-04,North India,Delhi,Apparel,Individual,43226.58,2083.6,17,0.02
+00793ef3-1e4b-4feb-9011-01443044b49b,2023-11-25,North India,Raipur,Books,Corporate,34401.97,-163.77,9,0.04
+b48739d0-3ca2-402d-9e4e-1a6e5ad85add,2023-06-17,East India,Pune,Electronics,Individual,14612.27,15577.51,11,0.21
+4b2a8d1a-b6ae-4f83-86e3-d63488339471,2024-12-19,North India,Bhubaneswar,Groceries,Individual,37364.42,1520.78,41,0.2
+b6087941-0d56-46b7-80d2-dcf315074d52,2023-10-02,Central India,Delhi,Apparel,Retail,3715.97,19407.45,16,0.27
+b2999780-9121-456f-8b12-a83ad04c399f,2023-04-03,East India,Patna,Groceries,Individual,3831.7,757.45,48,0.14
+e12382f2-7da4-4ebf-b48f-36bb6e17e9c1,2023-04-27,North India,Hyderabad,Books,Individual,34517.14,12910.88,28,0.08
+abe5136d-c248-4d78-991e-7a4223b57799,2024-05-17,East India,Ahmedabad,Apparel,Individual,38869.51,1127.3,36,0.18
+358191d3-ca4c-4833-a857-d6b6638e7e87,2024-06-26,South India,Hyderabad,Electronics,Corporate,10232.35,10687.07,26,0.04
+a23e3921-6dd5-4edc-8f1d-91732a01db69,2024-12-25,East India,Jaipur,Groceries,Individual,8509.11,7677.49,22,0.07
+ed99894a-4f70-4765-9289-bc607a94fcb5,2024-12-05,West India,Raipur,Books,Retail,28036.04,10797.06,26,0.26
+8f75af98-cbf4-4a53-838a-be9ae0c57b57,2023-01-29,Central India,Bhopal,Home Appliances,Retail,14572.61,16986.82,20,0.2
+1b797c2a-5acd-4b26-9739-60bffb7ce7e8,2024-07-29,West India,Indore,Electronics,Individual,21122.89,,49,
+b280f296-2c20-488a-9bf1-997a52e9d211,2024-07-13,North India,Kolkata,Apparel,Individual,34699.76,6689.87,49,0.2
+3ff77519-012c-4ad6-97e6-eb53f186c785,2023-11-17,West India,Raipur,Electronics,Corporate,41653.64,1018.45,34,0.16
+625aaf88-5533-4786-ac54-d674bacb8dc9,2023-02-15,North India,Hyderabad,Apparel,Retail,17913.52,16030.15,26,0.02
+e490cffd-5c3f-412f-acfa-2300b7c75851,2023-07-02,North India,Guwahati,Books,Retail,45467.57,19170.3,39,0.08
+db04f970-b80d-4e0f-a2d9-2c18cea1bb1a,2023-02-25,West India,Chandigarh,Electronics,Corporate,48318.07,,48,
+ab99fb62-50c3-4ea2-80b9-8efbd12a94bb,2024-01-28,Central India,Kochi,Books,Individual,47644.6,8303.87,42,0.29
+bdb3c6b9-b49f-497a-97b4-b15612cef03e,2023-04-22,North India,Pune,Books,Individual,6596.67,-528.49,30,0.19
+5988c862-15a9-4ecf-9586-8fcd60e21b24,2024-10-16,West India,Bhopal,Electronics,Retail,506.81,6833.95,22,0.0
+72286a56-14ff-49a6-9abf-6246b1f9f713,2023-12-17,South India,Raipur,Groceries,Corporate,16297.91,14981.28,39,0.28
+2d8eb1e1-f2b9-45cd-8c21-62a24644dac8,2023-05-19,South India,Guwahati,Electronics,Corporate,33143.4,-684.96,24,0.24
+5c1d3f14-4f54-4dd9-9fc1-f96e40cabaa6,2025-01-17,North India,Lucknow,Electronics,Corporate,36551.31,17598.91,9,0.23
+27881baa-a09e-4841-b4a9-1156d5b37ae6,2023-09-14,North India,Surat,Apparel,Corporate,6586.62,5729.01,41,0.14
+0d288cf7-a819-408a-ae64-1197e8467a70,2023-04-13,East India,Nagpur,Groceries,Individual,40533.95,7952.72,17,0.15
+59270977-adc0-4c03-b486-b09951e0459d,2024-11-25,East India,Guwahati,Groceries,Individual,12607.93,5326.82,23,0.07
+6d93a20d-ed0c-4bbb-985f-592e6323261f,2024-04-29,Central India,Chennai,Groceries,Individual,44095.68,7541.78,32,0.07
+cf088e37-036a-4050-947f-1e6495bd9e98,2023-03-09,North India,Bangalore,Apparel,Retail,33009.55,19592.62,21,0.06
+2e8b7a3d-454e-4c02-bb32-a50b7787b7b6,2023-07-05,West India,Chandigarh,Groceries,Individual,16531.76,9076.39,41,0.28
+5e993915-d696-4f5c-9c0b-363d78ec1410,2024-09-21,Central India,Raipur,Groceries,Individual,26092.51,18828.02,32,0.27
+bff5e392-734e-4215-8b9e-26b825b1181b,2024-02-11,East India,Surat,Books,Individual,38874.32,1671.27,49,0.23
+c49e3411-d1b3-4fb2-bac9-529da32adba1,2023-04-03,West India,Ahmedabad,Books,Individual,14556.66,12139.14,40,0.21
+4f720976-4824-43ca-9c74-e06c5be6ff01,2024-09-22,South India,Patna,Electronics,Corporate,26786.16,13880.42,49,0.22
+040e99b5-27ff-4efe-b864-5ac051dbb66c,2023-08-16,East India,Kochi,Groceries,Individual,14907.92,12551.24,37,0.02
+ac5e63b1-9e4c-4094-bc50-1e6a93c6ada6,2024-04-17,West India,Bhubaneswar,Apparel,Retail,38985.77,1156.42,28,0.05
+25174bcc-8fbc-41a9-b319-90122c37ec82,2024-03-23,West India,Lucknow,Electronics,Retail,17863.53,5720.17,46,0.11
+80cf9a8c-50f8-4bd6-ba40-07ba429b823f,2024-01-19,West India,Kolkata,Home Appliances,Corporate,24511.38,2700.42,31,0.02
+37783bf5-ac93-4a23-958a-1ff59ab40a79,2024-08-28,North India,Bhubaneswar,Apparel,Individual,33532.89,16287.75,8,0.1
+cbf5e557-af53-433d-b2c6-fcca1d523600,2024-10-02,West India,Hyderabad,Groceries,Individual,14147.48,9728.27,21,0.04
+ba36d083-51a0-4af2-a7b9-f9232de502a1,2024-03-21,West India,Raipur,Apparel,Corporate,746.68,7852.4,37,0.16
+f46c4771-b78c-432f-bd31-a3f66ce17cc7,2023-06-29,South India,Kolkata,Apparel,Individual,19344.53,12739.43,16,0.06
+ab21ba95-9118-4c37-a947-2453d4a04b56,2023-08-22,West India,Guwahati,Home Appliances,Individual,36074.0,15204.84,50,0.07
+99d4bb10-5abe-4521-b0dd-1fafdb68be82,2024-11-12,Central India,Raipur,Home Appliances,Individual,28937.36,,28,
+b96e2165-e358-436b-b214-99d840b26984,2023-09-01,South India,Pune,Electronics,Corporate,17395.63,10888.37,40,0.19
+69882187-ad0e-4c8b-a9b8-b31027e3830c,2025-01-23,Central India,Bangalore,Apparel,Corporate,10030.54,14366.74,38,0.24
+854fbf1c-44e2-494b-9cd0-6ad6a8654e8f,2023-07-19,North India,Patna,Books,Retail,25220.11,2764.63,38,0.27
+30c4a003-f95c-4a19-b3c0-f88670f35f15,2024-11-05,South India,Jaipur,Books,Individual,39601.01,6799.5,44,0.06
+a549b814-b436-4937-915b-f31113c10f7e,2024-05-25,West India,Nagpur,Home Appliances,Retail,42117.08,11755.94,7,0.02
+b8ff4b8e-a863-4f0b-b0dc-581928123726,2023-11-27,North India,Bangalore,Groceries,Retail,34022.95,16830.63,9,0.23
+2e29e013-b1ca-4cb9-962a-2fe92243e53d,2024-09-29,Central India,Hyderabad,Apparel,Individual,34983.36,7529.57,39,0.21
+f5b61686-1d2c-4d89-831e-4671b5813202,2024-05-22,Central India,Chandigarh,Books,Retail,35659.9,18799.33,30,0.19
+5b304fe8-242d-4169-98ad-d032f0c8c104,2023-05-14,Central India,Surat,Books,Corporate,24021.08,2944.95,37,0.13
